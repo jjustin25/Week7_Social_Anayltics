@@ -1,0 +1,567 @@
+User,Timestamp,Compound_Score,Pos_Score,Neu_Score,Neg_Score,Tweets_Ago,Tweet_Text
+BBCWorld,Wed Oct 17 23:47:01 +0000 2018,0.0,0.0,1.0,0.0,1,Cannabis in Canada: How it went down on Legalisation Day https://t.co/5MdgdYQXdA
+BBCWorld,Wed Oct 17 23:21:28 +0000 2018,-0.6908,0.0,0.63,0.37,2,Sri Lanka's Sirisena calls India over 'murder plot' https://t.co/beifsC61Ip
+BBCWorld,Wed Oct 17 23:09:57 +0000 2018,0.2235,0.173,0.827,0.0,3,Central African Republic: 'Why a grenade couldn't stop our music' https://t.co/0a77m2RydY
+BBCWorld,Wed Oct 17 23:07:33 +0000 2018,0.0,0.0,1.0,0.0,4,Why is Germany beefing-up its military? https://t.co/LWjc8J7hNY
+BBCWorld,Wed Oct 17 23:03:01 +0000 2018,0.5574,0.338,0.662,0.0,5,Venezuelans escape to Spain and ask to return old favour https://t.co/mI3KxWc1t1
+BBCWorld,Wed Oct 17 22:35:41 +0000 2018,-0.6597,0.0,0.645,0.355,6,Jayme Closs: Hunt for 13-year-old after parents murdered https://t.co/3IgPkZ1cEQ
+BBCWorld,Wed Oct 17 21:58:36 +0000 2018,-0.7845,0.0,0.465,0.535,7,Viktoria Marinova: Suspect in journalist murder extradited https://t.co/engmypMSmP
+BBCWorld,Wed Oct 17 20:44:33 +0000 2018,0.0,0.0,1.0,0.0,8,Healthcare in US: The big election story not being talked about https://t.co/ZPcrVm5SHE
+BBCWorld,Wed Oct 17 20:32:58 +0000 2018,0.0,0.0,1.0,0.0,9,Jamal Khashoggi disappearance: US asks Turkey for recording evidence https://t.co/ixQkpbtZfe
+BBCWorld,Wed Oct 17 19:47:01 +0000 2018,-0.4767,0.131,0.584,0.285,10,Norway apologises to its World War Two 'German girls' https://t.co/vMLrR1iw39
+BBCWorld,Wed Oct 17 17:43:39 +0000 2018,0.0,0.0,1.0,0.0,11,RT @BBCMonitoring: The state of #ISIS one year on from the fall of #Raqqa https://t.co/IzLar8GDrd
+BBCWorld,Wed Oct 17 17:06:09 +0000 2018,0.296,0.306,0.694,0.0,12,Islands 'should share' housing refugees https://t.co/ReyopS2sVH
+BBCWorld,Wed Oct 17 16:28:08 +0000 2018,-0.5994,0.0,0.698,0.302,13,Hurricane Michael: Death toll continues to rise amid searches https://t.co/x8O5RN8MvS
+BBCWorld,Wed Oct 17 16:24:05 +0000 2018,0.4215,0.183,0.817,0.0,14,RT @BBCBusiness: Inside one of Canada's legal cannabis factories - where pot growers are turning a youthful habit into careers https://t.co…
+BBCWorld,Wed Oct 17 16:09:46 +0000 2018,0.0,0.0,1.0,0.0,15,"RT @BBCNews: He fled Syria seven years ago 
+Now this refugee calls a historic London manor home 
+(Tap to expand) https://t.co/z3ZwikMRZY ht…"
+BBCWorld,Wed Oct 17 16:06:37 +0000 2018,-0.4404,0.133,0.632,0.235,16,"""There's no beauty in life now.""
+
+The aftermath of the Yemen airstrike that killed more than 40 children, carried o… https://t.co/Rywl75qXBC"
+BBCWorld,Wed Oct 17 14:54:03 +0000 2018,-0.5994,0.0,0.719,0.281,17,Syria war: UN envoy Staffan de Mistura to step down https://t.co/8wZEc5sZJF
+BBCWorld,Wed Oct 17 14:37:51 +0000 2018,0.0,0.0,1.0,0.0,18,Belfast balloon release 'horrendous' say marine experts https://t.co/QeyDsWqXQQ
+BBCWorld,Wed Oct 17 14:21:48 +0000 2018,-0.4588,0.0,0.7,0.3,19,Melania Trump : 'Smoke-filled' plane forced to land https://t.co/yepBjkLNN9
+BBCWorld,Wed Oct 17 13:56:39 +0000 2018,0.0,0.0,1.0,0.0,20,Spanish drug baron Francisco Tejón surrenders after video clip https://t.co/Da1tRMmuTt
+BBCWorld,Wed Oct 17 23:47:01 +0000 2018,0.0,0.0,1.0,0.0,21,Cannabis in Canada: How it went down on Legalisation Day https://t.co/5MdgdYQXdA
+BBCWorld,Wed Oct 17 23:21:28 +0000 2018,-0.6908,0.0,0.63,0.37,22,Sri Lanka's Sirisena calls India over 'murder plot' https://t.co/beifsC61Ip
+BBCWorld,Wed Oct 17 23:09:57 +0000 2018,0.2235,0.173,0.827,0.0,23,Central African Republic: 'Why a grenade couldn't stop our music' https://t.co/0a77m2RydY
+BBCWorld,Wed Oct 17 23:07:33 +0000 2018,0.0,0.0,1.0,0.0,24,Why is Germany beefing-up its military? https://t.co/LWjc8J7hNY
+BBCWorld,Wed Oct 17 23:03:01 +0000 2018,0.5574,0.338,0.662,0.0,25,Venezuelans escape to Spain and ask to return old favour https://t.co/mI3KxWc1t1
+BBCWorld,Wed Oct 17 22:35:41 +0000 2018,-0.6597,0.0,0.645,0.355,26,Jayme Closs: Hunt for 13-year-old after parents murdered https://t.co/3IgPkZ1cEQ
+BBCWorld,Wed Oct 17 21:58:36 +0000 2018,-0.7845,0.0,0.465,0.535,27,Viktoria Marinova: Suspect in journalist murder extradited https://t.co/engmypMSmP
+BBCWorld,Wed Oct 17 20:44:33 +0000 2018,0.0,0.0,1.0,0.0,28,Healthcare in US: The big election story not being talked about https://t.co/ZPcrVm5SHE
+BBCWorld,Wed Oct 17 20:32:58 +0000 2018,0.0,0.0,1.0,0.0,29,Jamal Khashoggi disappearance: US asks Turkey for recording evidence https://t.co/ixQkpbtZfe
+BBCWorld,Wed Oct 17 19:47:01 +0000 2018,-0.4767,0.131,0.584,0.285,30,Norway apologises to its World War Two 'German girls' https://t.co/vMLrR1iw39
+BBCWorld,Wed Oct 17 17:43:39 +0000 2018,0.0,0.0,1.0,0.0,31,RT @BBCMonitoring: The state of #ISIS one year on from the fall of #Raqqa https://t.co/IzLar8GDrd
+BBCWorld,Wed Oct 17 17:06:09 +0000 2018,0.296,0.306,0.694,0.0,32,Islands 'should share' housing refugees https://t.co/ReyopS2sVH
+BBCWorld,Wed Oct 17 16:28:08 +0000 2018,-0.5994,0.0,0.698,0.302,33,Hurricane Michael: Death toll continues to rise amid searches https://t.co/x8O5RN8MvS
+BBCWorld,Wed Oct 17 16:24:05 +0000 2018,0.4215,0.183,0.817,0.0,34,RT @BBCBusiness: Inside one of Canada's legal cannabis factories - where pot growers are turning a youthful habit into careers https://t.co…
+BBCWorld,Wed Oct 17 16:09:46 +0000 2018,0.0,0.0,1.0,0.0,35,"RT @BBCNews: He fled Syria seven years ago 
+Now this refugee calls a historic London manor home 
+(Tap to expand) https://t.co/z3ZwikMRZY ht…"
+BBCWorld,Wed Oct 17 16:06:37 +0000 2018,-0.4404,0.133,0.632,0.235,36,"""There's no beauty in life now.""
+
+The aftermath of the Yemen airstrike that killed more than 40 children, carried o… https://t.co/Rywl75qXBC"
+BBCWorld,Wed Oct 17 14:54:03 +0000 2018,-0.5994,0.0,0.719,0.281,37,Syria war: UN envoy Staffan de Mistura to step down https://t.co/8wZEc5sZJF
+BBCWorld,Wed Oct 17 14:37:51 +0000 2018,0.0,0.0,1.0,0.0,38,Belfast balloon release 'horrendous' say marine experts https://t.co/QeyDsWqXQQ
+BBCWorld,Wed Oct 17 14:21:48 +0000 2018,-0.4588,0.0,0.7,0.3,39,Melania Trump : 'Smoke-filled' plane forced to land https://t.co/yepBjkLNN9
+BBCWorld,Wed Oct 17 13:56:39 +0000 2018,0.0,0.0,1.0,0.0,40,Spanish drug baron Francisco Tejón surrenders after video clip https://t.co/Da1tRMmuTt
+BBCWorld,Wed Oct 17 13:51:14 +0000 2018,0.0,0.0,1.0,0.0,41,RT @BBC_HaveYourSay: What are NPC memes and why are they appearing across social media? https://t.co/Ql1pXa3c6E
+BBCWorld,Wed Oct 17 13:43:41 +0000 2018,0.128,0.067,0.933,0.0,42,"RT @BBCNorthAmerica: Today is the first day of legal recreational cannabis sales in Canada, follow our live coverage from across the countr…"
+BBCWorld,Wed Oct 17 13:40:25 +0000 2018,0.0,0.0,1.0,0.0,43,"RT @Murphy_Jessica_: The Kamloops cannabis store - about 350 km away from Vancouver, BC's largest city - will be joined by others soon. The…"
+BBCWorld,Wed Oct 17 13:38:18 +0000 2018,-0.8591,0.0,0.424,0.576,44,Tasmania penguin deaths: Dozens killed in suspected dog attack https://t.co/OOzgsPSymo
+BBCWorld,Wed Oct 17 13:25:02 +0000 2018,-0.926,0.0,0.571,0.429,45,"RT @BBCBreaking: Crimea school attack update:
+
+*At least 17 killed &amp; dozens wounded
+*Officials now say all victims died of gunshot wounds…"
+BBCWorld,Wed Oct 17 13:02:55 +0000 2018,0.0,0.0,1.0,0.0,46,"RT @BBCNewsEnts: ""Time to say bye bye again to the internet for jus a lil bit."" @ArianaGrande https://t.co/FG17nWcdKY"
+BBCWorld,Wed Oct 17 12:42:06 +0000 2018,0.0,0.0,1.0,0.0,47,MJ Akbar: India minister quits after #MeToo allegations https://t.co/ii9h08LnaQ
+BBCWorld,Wed Oct 17 12:28:12 +0000 2018,-0.4588,0.0,0.727,0.273,48,Domenico Lucano: Italy's migrant-friendly mayor banned from Riace https://t.co/n6En82v03N
+BBCWorld,Wed Oct 17 12:27:49 +0000 2018,0.0,0.0,1.0,0.0,49,California student 'baked grandma's ashes into cookies' https://t.co/dQeD97pB70
+BBCWorld,Wed Oct 17 12:11:19 +0000 2018,-0.5574,0.0,0.735,0.265,50,Chinese firm fined $1.3bn for illegal production of rabies vaccine https://t.co/hM44Xjtwbj
+BBCWorld,Wed Oct 17 11:27:45 +0000 2018,-0.5859,0.0,0.593,0.407,51,Sabarimala: Protesters block women from entering Hindu shrine https://t.co/2kuXhPZ4ue
+BBCWorld,Wed Oct 17 11:12:37 +0000 2018,-0.5267,0.0,0.673,0.327,52,Head of anti-homophobia group assaulted in Paris https://t.co/oA0LePNBu9
+BBCWorld,Wed Oct 17 11:06:25 +0000 2018,-0.6705,0.0,0.824,0.176,53,"RT @BBCBreaking: Blast which killed 10 people at college in Crimean town of Kerch caused by explosive device, Russian officials say https:/…"
+BBCWorld,Wed Oct 17 09:59:58 +0000 2018,0.6072,0.132,0.868,0.0,54,"RT @BBCAfrica: “Mum, why am I different from other people? Why is it that when I pass, people laugh at me?”
+
+Her name is Angel &amp; she also h…"
+BBCWorld,Wed Oct 17 09:57:03 +0000 2018,-0.296,0.0,0.784,0.216,55,Jamal Khashoggi: Pompeo meets Erdogan over missing writer https://t.co/Bx0wzpkMCo
+BBCWorld,Wed Oct 17 09:40:09 +0000 2018,0.0,0.0,1.0,0.0,56,Your US mid-term elections daily digest https://t.co/iAoc186W0X
+BBCWorld,Wed Oct 17 09:28:56 +0000 2018,0.4754,0.154,0.846,0.0,57,"RT @BBCPolitics: Are EU leaders really united on #Brexit? @BBCKatyaAdler explains 
+
+Read more: https://t.co/1pZQNzfQv8
+
+[tap video to expan…"
+BBCWorld,Wed Oct 17 08:54:09 +0000 2018,-0.5423,0.158,0.504,0.338,58,Hélène Pastor murder: Polish son-in-law admits ordering hit https://t.co/AnX5KCYgGB
+BBCWorld,Wed Oct 17 08:51:53 +0000 2018,-0.8807,0.0,0.44,0.56,59,Chinese woman kills herself and children after husband fakes death https://t.co/Yq3lgNw0A0
+BBCWorld,Wed Oct 17 08:48:42 +0000 2018,0.5859,0.167,0.833,0.0,60,RT @BBCNews: The cutest breach of royal protocol you'll ever see – a five-year-old boy couldn't resist touching Prince Harry's beard during…
+BBCWorld,Wed Oct 17 06:02:52 +0000 2018,-0.4939,0.0,0.758,0.242,61,Charlie Condell: UK teenager in record attempt has bike stolen https://t.co/FgVM4aNvov
+BBCWorld,Wed Oct 17 04:43:41 +0000 2018,-0.5719,0.0,0.829,0.171,62,"The Halloween reboot is bringing Jamie Lee Curtis so much attention
+
+The veteran actress on her horror return: https://t.co/5KvKtOGI2I"
+BBCWorld,Wed Oct 17 03:48:43 +0000 2018,0.0,0.0,1.0,0.0,63,"IMF chief Christine Lagarde  withdraws from major Saudi investment conference, as global concern over the disappear… https://t.co/zT9rEY8OxY"
+BBCWorld,Wed Oct 17 03:40:52 +0000 2018,0.3182,0.113,0.887,0.0,64,"He was responsible for some of Australia's most iconic environmental campaigns. 
+
+And also famously came to the res… https://t.co/M78IqCBFSC"
+BBCWorld,Wed Oct 17 03:32:39 +0000 2018,-0.6908,0.0,0.63,0.37,65,Pakistan Zainab murder: Imran Ali executed in jail https://t.co/c7MejLAtuZ
+BBCWorld,Wed Oct 17 03:07:22 +0000 2018,0.3384,0.285,0.715,0.0,66,US mid-terms: The most surprising candidates https://t.co/0IwYSPa2a0
+BBCWorld,Wed Oct 17 03:01:47 +0000 2018,0.0,0.0,1.0,0.0,67,RT @SallyBundockBBC: We are discussing all sort this morning including whether you would eat meat grown in a lab. Send us your thoughts and…
+BBCWorld,Wed Oct 17 02:57:43 +0000 2018,-0.5994,0.0,0.782,0.218,68,An ongoing deadly drought in Afghanistan is displacing more people than the Taliban war https://t.co/1cGbQX6dTX
+BBCWorld,Wed Oct 17 02:50:59 +0000 2018,0.0,0.0,1.0,0.0,69,"RT @SallyBundockBBC: Can #Netflix keep up this momentum? We discuss in #BusinessBriefing at 05:30 BST
+https://t.co/lEvf4ipw0J"
+BBCWorld,Wed Oct 17 02:50:56 +0000 2018,0.3612,0.128,0.872,0.0,70,"@BBCBreaking So Canada just legalised recreational marijuana. But is it ready for cannabis? 
+
+Concerns also still r… https://t.co/1D5lDO2lnA"
+BBCWorld,Wed Oct 17 02:42:17 +0000 2018,0.0,0.0,1.0,0.0,71,Canada becomes second country to legalise recreational marijuana https://t.co/mO2nPbKOPD
+BBCWorld,Wed Oct 17 02:41:34 +0000 2018,0.0,0.0,1.0,0.0,72,"RT @BBCBreaking: Canada legalises possession and use of recreational cannabis, the second country after Uruguay to do so https://t.co/Y9rZr…"
+BBCWorld,Wed Oct 17 02:40:24 +0000 2018,0.2023,0.079,0.921,0.0,73,"RT @BBCNewsAsia: China's top official in Xinjiang has defended the use of 'internment camps' for Uighur Muslims, saying they were proving e…"
+BBCWorld,Wed Oct 17 02:35:15 +0000 2018,0.3182,0.119,0.881,0.0,74,The recent high-profile disappearances of Chinese starlet Fan Bingbing and Interpol chief Meng Hongwei show one thi… https://t.co/V3fWEkz1hN
+BBCWorld,Wed Oct 17 02:13:36 +0000 2018,0.0,0.0,1.0,0.0,75,This pop star from Pakistan is set to make history with an epic flying mission https://t.co/Cu5CGKMD0G
+BBCWorld,Wed Oct 17 00:51:04 +0000 2018,0.4019,0.252,0.748,0.0,76,Ian Kiernan: 'Clean Up the World' environmentalist dies https://t.co/zo7t1BdEfg
+BBCWorld,Wed Oct 17 00:27:00 +0000 2018,0.0,0.0,1.0,0.0,77,Afghan drought 'displacing more people than Taliban' https://t.co/pUKMTTe1wy
+BBCWorld,Tue Oct 16 23:35:46 +0000 2018,-0.8979,0.0,0.391,0.609,78,Nigeria midwife murders: Brutal IS tactics rekindle new fears https://t.co/jHnuhnSwHC
+BBCWorld,Tue Oct 16 23:33:27 +0000 2018,0.0258,0.121,0.879,0.0,79,Orthodox Church split: Five reasons why it matters https://t.co/yQa9v3wCqu
+BBCWorld,Tue Oct 16 23:17:34 +0000 2018,0.0,0.0,1.0,0.0,80,China disappearances show Beijing sets its own rules https://t.co/1YZUdGthEc
+BBCWorld,Tue Oct 16 21:45:01 +0000 2018,0.0,0.0,1.0,0.0,81,Kiah Morris: Vermont's only black woman lawmaker on why she quit https://t.co/adhJKWy7i6
+BBCWorld,Tue Oct 16 21:24:09 +0000 2018,0.0,0.0,1.0,0.0,82,Dennis Hof: Nevada brothel owner and reality star dies at 72 https://t.co/9kvZvDevki
+BBCWorld,Tue Oct 16 20:58:16 +0000 2018,0.128,0.081,0.919,0.0,83,"Weed is legal at midnight in Canada, should people with pot convictions get amnesty? 
+[Tap to expand]… https://t.co/rgrWvrQJKm"
+BBCWorld,Tue Oct 16 20:53:05 +0000 2018,0.8555,0.309,0.691,0.0,84,RT @BBCBreaking: Anna Burns has been named the winner of this year's Man Booker Prize for her novel Milkman - becoming the first author fro…
+BBCWorld,Tue Oct 16 20:52:04 +0000 2018,-0.7003,0.0,0.608,0.392,85,US senator apologies for revealing names of 'sex crime victims' https://t.co/HiYfmncaSI
+BBCWorld,Tue Oct 16 20:48:32 +0000 2018,-0.4215,0.0,0.741,0.259,86,Jamal Khashoggi disappearance: Saudi crown prince 'denies involvement' https://t.co/3DkSV755DW
+BBCWorld,Tue Oct 16 20:44:10 +0000 2018,0.25,0.132,0.736,0.132,87,RT @BBCSport: The interim boss of USA Gymnastics has resigned after her appointment was questioned by Olympic champions Simone Biles and Al…
+BBCWorld,Tue Oct 16 20:31:49 +0000 2018,0.7096,0.457,0.543,0.0,88,RT @BBCBusiness: Netflix surges on strong subscriber growth https://t.co/jp3YOAsAAp
+BBCWorld,Tue Oct 16 19:56:26 +0000 2018,0.0,0.0,1.0,0.0,89,"RT @BBCSport: On the 50th anniversary of the 'Black Power' salute by US sprinters Tommie Smith and John Carlos at the 1968 Olympics, we ask…"
+BBCWorld,Tue Oct 16 19:42:30 +0000 2018,-0.1326,0.167,0.62,0.213,90,RT @BBCBusiness: Walmart rises despite lower profit forecast https://t.co/dP8opaMoHv
+BBCWorld,Tue Oct 16 18:58:49 +0000 2018,-0.6486,0.0,0.602,0.398,91,Missing pianist believed to be buried by wrong family https://t.co/ZG6DqLJdxe
+BBCWorld,Tue Oct 16 17:43:07 +0000 2018,0.0,0.0,1.0,0.0,92,US senator Elizabeth Warren faces backlash after indigenous DNA claim https://t.co/7K04RLfaJP
+BBCWorld,Tue Oct 16 17:38:11 +0000 2018,0.0,0.0,1.0,0.0,93,K-pop singer HyunA sacked by record label over relationship with bandmate E'Dawn https://t.co/6MD1yfZcw8
+BBCWorld,Tue Oct 16 16:45:28 +0000 2018,-0.5719,0.0,0.63,0.37,94,Trump threatens to cut aid to Honduras over migrants https://t.co/q6AdyL1Pf4
+BBCWorld,Tue Oct 16 16:45:14 +0000 2018,-0.5719,0.0,0.68,0.32,95,RT @BBCNorthAmerica: Trump threatens to cut aid to Honduras over migrants https://t.co/xQn0yT3vh3
+BBCWorld,Tue Oct 16 16:39:19 +0000 2018,0.6486,0.218,0.782,0.0,96,"The chicken that this nugget is made from is still alive and roaming around a farm... 🐔 
+
+Yes, you read that right… https://t.co/GSFI4aOSkt"
+BBCWorld,Tue Oct 16 16:23:40 +0000 2018,0.0,0.0,1.0,0.0,97,RT @BBCScienceNews: Lab-grown oesophagus implanted in mice https://t.co/yKotMUNoDh
+BBCWorld,Tue Oct 16 16:00:41 +0000 2018,-0.6124,0.0,0.615,0.385,98,Al-Shabab in Somalia: US air strike 'kills 60 militants' https://t.co/fghOaTzs8X
+BBCWorld,Tue Oct 16 15:47:39 +0000 2018,0.0772,0.053,0.947,0.0,99,RT @BBCJLandale: Want to know the latest about the disappearance of Jamal Khashoggi and what Saudi Arabia is saying? Watch @huwbbc &amp; me on…
+BBCWorld,Tue Oct 16 15:35:02 +0000 2018,-0.765,0.0,0.515,0.485,100,Idaho wildlife official resigns over dead baboon photo https://t.co/8rU7s30HJe
+CBS,Wed Oct 17 22:42:28 +0000 2018,0.4843,0.216,0.784,0.0,1,"Don't miss @Elementary_CBS star @LucyLiu as ""Conformity"" in the animated CBS special Michael Jackson's Halloween th… https://t.co/uBkeeTt45K"
+CBS,Wed Oct 17 18:00:01 +0000 2018,0.0,0.0,1.0,0.0,2,"Did you know @Alancumming, @KierseyClemons, and @lucastill voices will be part of #MJHalloween? Find out which othe… https://t.co/FJzSM6AgGT"
+CBS,Wed Oct 17 14:45:37 +0000 2018,0.4019,0.114,0.886,0.0,3,"This just in: Country superstar @garthbrooks is set to premiere his new TV special ""Garth: Live At Notre Dame"" on S… https://t.co/fh37csbIxw"
+CBS,Wed Oct 17 13:08:31 +0000 2018,0.636,0.189,0.811,0.0,4,RT @WorldsBestCBS: Mark your calendars! The #WorldsBest is premiering right after the Super Bowl on February 3: https://t.co/mOcLpFURB9 🏈🏆…
+CBS,Tue Oct 16 21:49:16 +0000 2018,0.6114,0.154,0.846,0.0,5,"RT @NCIS_CBS: When it's #NationalBossDay AND #NCIS day, there's just one thing to do... Celebrate Gibbs! What do you think makes Gibbs a gr…"
+CBS,Mon Oct 15 19:40:07 +0000 2018,0.4588,0.15,0.85,0.0,6,"Sixty-seven years ago, legendary CBS sitcom #ILoveLucy premiered on this day in #CBStory. What's your favorite epis… https://t.co/iOgv99L21F"
+CBS,Mon Oct 15 17:41:20 +0000 2018,0.0,0.0,1.0,0.0,7,RT @MagnumPICBS: Woof woof woof! (Translation: #MagnumPI is new tonight at 9/8c!) https://t.co/hBkiJUVZD3
+CBS,Sun Oct 14 23:29:25 +0000 2018,0.5562,0.204,0.796,0.0,8,"Hooray! #CBS Sunday schedule starting on time. All new episodes: 
+#60Minutes 7:30pmET/7pmPT 
+#GodFriendedMe 8:30pmE… https://t.co/XJQ40QeUS8"
+CBS,Sun Oct 14 20:00:00 +0000 2018,0.0,0.0,1.0,0.0,9,"Dust off your dancing shoes! Michael Jackson’s Halloween airs Saturday, Oct. 20 at 8/7c on CBS. https://t.co/o0PoEUj1Xn"
+CBS,Sun Oct 14 15:22:32 +0000 2018,0.0,0.0,1.0,0.0,10,RT @CBSAllAccess: Sundays were made for NFL on CBS. 🏈 https://t.co/vsod8jYeZl https://t.co/OtJL7e94BA
+CBS,Sat Oct 13 03:09:33 +0000 2018,0.4466,0.213,0.693,0.094,11,"DVR ALERT for Viewers in EAST/CENTRAL Time Zones, please note *possible* football delay for CBS shows on Sunday eve… https://t.co/VB9W5WaUqL"
+CBS,Fri Oct 12 17:59:00 +0000 2018,0.7579,0.265,0.735,0.0,12,This bonus spin was just a part of what made #PriceIsRight's Big Money Week enormous. What was your favorite moment? https://t.co/mhU50K8dJd
+CBS,Thu Oct 11 18:05:06 +0000 2018,0.5093,0.162,0.838,0.0,13,"RT @CBSAllAccess: Welcome to #TheTwilightZone, @justsanaa! The new series is coming to CBS All Access in 2019. 🌀 https://t.co/NdB7Vf4vdb"
+CBS,Wed Oct 10 20:31:12 +0000 2018,0.4939,0.198,0.802,0.0,14,"Ready to get into the Halloween spirit? An encore presentation of Michael Jackson’s Halloween will air Saturday, Oc… https://t.co/sgLdtV4SaR"
+CBS,Tue Oct 09 19:23:28 +0000 2018,-0.34,0.0,0.893,0.107,15,"@ira We may have accidentally offered the job already to Catherine Deneuve, thinking we were talking to you on the… https://t.co/4BgA5HgSeB"
+CBS,Mon Oct 08 23:48:50 +0000 2018,0.4215,0.237,0.763,0.0,16,RT @MadamSecretary: #ICYMI: A powerful moment from last night. #MadamSecretary https://t.co/MgQ11RlFmR
+CBS,Mon Oct 08 16:37:00 +0000 2018,0.6696,0.183,0.817,0.0,17,"RT @WorldsBestCBS: It’s the world’s best news! @JKCorden will host, and @DrewBarrymore, @RuPaul and @FaithHill will serve as judges of the…"
+CBS,Sun Oct 07 14:00:01 +0000 2018,0.3612,0.098,0.902,0.0,18,All the action on the gridiron from the comfort of your couch. Watch NFL on CBS LIVE today starting at 1pm ET. 🏈… https://t.co/WiXBm46gNV
+CBS,Sat Oct 06 21:33:36 +0000 2018,0.0772,0.064,0.936,0.0,19,"RT @CBSAllAccess: Take a first look at Spock, Number One, and Section 31’s newest recruit. #StarTrekDiscovery returns January 17, 2019. htt…"
+CBS,Fri Oct 05 23:30:00 +0000 2018,0.5423,0.2,0.8,0.0,20,"Viewers in Atlanta, Charlotte, Pittsburgh, and most of Michigan and Wisconsin, please take note of the DVR alert be… https://t.co/fradnBOvdk"
+CBS,Wed Oct 17 22:42:28 +0000 2018,0.4843,0.216,0.784,0.0,21,"Don't miss @Elementary_CBS star @LucyLiu as ""Conformity"" in the animated CBS special Michael Jackson's Halloween th… https://t.co/uBkeeTt45K"
+CBS,Wed Oct 17 18:00:01 +0000 2018,0.0,0.0,1.0,0.0,22,"Did you know @Alancumming, @KierseyClemons, and @lucastill voices will be part of #MJHalloween? Find out which othe… https://t.co/FJzSM6AgGT"
+CBS,Wed Oct 17 14:45:37 +0000 2018,0.4019,0.114,0.886,0.0,23,"This just in: Country superstar @garthbrooks is set to premiere his new TV special ""Garth: Live At Notre Dame"" on S… https://t.co/fh37csbIxw"
+CBS,Wed Oct 17 13:08:31 +0000 2018,0.636,0.189,0.811,0.0,24,RT @WorldsBestCBS: Mark your calendars! The #WorldsBest is premiering right after the Super Bowl on February 3: https://t.co/mOcLpFURB9 🏈🏆…
+CBS,Tue Oct 16 21:49:16 +0000 2018,0.6114,0.154,0.846,0.0,25,"RT @NCIS_CBS: When it's #NationalBossDay AND #NCIS day, there's just one thing to do... Celebrate Gibbs! What do you think makes Gibbs a gr…"
+CBS,Mon Oct 15 19:40:07 +0000 2018,0.4588,0.15,0.85,0.0,26,"Sixty-seven years ago, legendary CBS sitcom #ILoveLucy premiered on this day in #CBStory. What's your favorite epis… https://t.co/iOgv99L21F"
+CBS,Mon Oct 15 17:41:20 +0000 2018,0.0,0.0,1.0,0.0,27,RT @MagnumPICBS: Woof woof woof! (Translation: #MagnumPI is new tonight at 9/8c!) https://t.co/hBkiJUVZD3
+CBS,Sun Oct 14 23:29:25 +0000 2018,0.5562,0.204,0.796,0.0,28,"Hooray! #CBS Sunday schedule starting on time. All new episodes: 
+#60Minutes 7:30pmET/7pmPT 
+#GodFriendedMe 8:30pmE… https://t.co/XJQ40QeUS8"
+CBS,Sun Oct 14 20:00:00 +0000 2018,0.0,0.0,1.0,0.0,29,"Dust off your dancing shoes! Michael Jackson’s Halloween airs Saturday, Oct. 20 at 8/7c on CBS. https://t.co/o0PoEUj1Xn"
+CBS,Sun Oct 14 15:22:32 +0000 2018,0.0,0.0,1.0,0.0,30,RT @CBSAllAccess: Sundays were made for NFL on CBS. 🏈 https://t.co/vsod8jYeZl https://t.co/OtJL7e94BA
+CBS,Sat Oct 13 03:09:33 +0000 2018,0.4466,0.213,0.693,0.094,31,"DVR ALERT for Viewers in EAST/CENTRAL Time Zones, please note *possible* football delay for CBS shows on Sunday eve… https://t.co/VB9W5WaUqL"
+CBS,Fri Oct 12 17:59:00 +0000 2018,0.7579,0.265,0.735,0.0,32,This bonus spin was just a part of what made #PriceIsRight's Big Money Week enormous. What was your favorite moment? https://t.co/mhU50K8dJd
+CBS,Thu Oct 11 18:05:06 +0000 2018,0.5093,0.162,0.838,0.0,33,"RT @CBSAllAccess: Welcome to #TheTwilightZone, @justsanaa! The new series is coming to CBS All Access in 2019. 🌀 https://t.co/NdB7Vf4vdb"
+CBS,Wed Oct 10 20:31:12 +0000 2018,0.4939,0.198,0.802,0.0,34,"Ready to get into the Halloween spirit? An encore presentation of Michael Jackson’s Halloween will air Saturday, Oc… https://t.co/sgLdtV4SaR"
+CBS,Tue Oct 09 19:23:28 +0000 2018,-0.34,0.0,0.893,0.107,35,"@ira We may have accidentally offered the job already to Catherine Deneuve, thinking we were talking to you on the… https://t.co/4BgA5HgSeB"
+CBS,Mon Oct 08 23:48:50 +0000 2018,0.4215,0.237,0.763,0.0,36,RT @MadamSecretary: #ICYMI: A powerful moment from last night. #MadamSecretary https://t.co/MgQ11RlFmR
+CBS,Mon Oct 08 16:37:00 +0000 2018,0.6696,0.183,0.817,0.0,37,"RT @WorldsBestCBS: It’s the world’s best news! @JKCorden will host, and @DrewBarrymore, @RuPaul and @FaithHill will serve as judges of the…"
+CBS,Sun Oct 07 14:00:01 +0000 2018,0.3612,0.098,0.902,0.0,38,All the action on the gridiron from the comfort of your couch. Watch NFL on CBS LIVE today starting at 1pm ET. 🏈… https://t.co/WiXBm46gNV
+CBS,Sat Oct 06 21:33:36 +0000 2018,0.0772,0.064,0.936,0.0,39,"RT @CBSAllAccess: Take a first look at Spock, Number One, and Section 31’s newest recruit. #StarTrekDiscovery returns January 17, 2019. htt…"
+CBS,Fri Oct 05 23:30:00 +0000 2018,0.5423,0.2,0.8,0.0,40,"Viewers in Atlanta, Charlotte, Pittsburgh, and most of Michigan and Wisconsin, please take note of the DVR alert be… https://t.co/fradnBOvdk"
+CBS,Fri Oct 05 20:10:09 +0000 2018,-0.3612,0.0,0.821,0.179,41,"RT @MadamSecretary: Worlds collide when former Secretaries of State @HillaryClinton, @madeleine, and Colin Powell stop by #MadamSecretary f…"
+CBS,Fri Oct 05 19:23:53 +0000 2018,0.0,0.0,1.0,0.0,42,".@TheNeighborhood's @BethBehrs and @latelateshow may have come up with a new hit show called ""Naked Rabbi.""… https://t.co/KLsSlzgC0f"
+CBS,Fri Oct 05 17:42:12 +0000 2018,-0.6808,0.0,0.811,0.189,43,"RT @FBICBS: When a killer's victim survives to tell the tale, it's up to the team to catch him before he kills again. 
+
+The first SEVEN MIN…"
+CBS,Fri Oct 05 16:45:23 +0000 2018,0.3612,0.172,0.828,0.0,44,But you know the CBS Fall TV that makes YOU smile. #WorldSmileDay https://t.co/JVOh5TlK0D
+CBS,Fri Oct 05 16:45:22 +0000 2018,0.4767,0.279,0.721,0.0,45,Not everyone smiles at the same shows #WorldSmileDay https://t.co/XFwNIFleXf
+CBS,Fri Oct 05 16:45:22 +0000 2018,0.3612,0.2,0.8,0.0,46,"And smile at shows that, you know, get you. #WorldSmileDay https://t.co/9JpmKkB7Ky"
+CBS,Fri Oct 05 16:45:21 +0000 2018,0.6124,0.333,0.667,0.0,47,Smile at shows you’ve been meaning to smile at before #WorldSmileDay https://t.co/MWrtrX62BP
+CBS,Fri Oct 05 16:45:21 +0000 2018,0.7003,0.42,0.58,0.0,48,Get right back into smiling with your favorites #WorldSmileDay https://t.co/BohCiTymMO
+CBS,Fri Oct 05 16:45:19 +0000 2018,0.3612,0.263,0.737,0.0,49,Time to smile at new shows #WorldSmileDay https://t.co/n45SpVXuOq
+CBS,Fri Oct 05 16:45:19 +0000 2018,0.4199,0.285,0.715,0.0,50,Smile! CBS Fall TV is here. #WorldSmileDay https://t.co/QhmtAmJL0X
+CBS,Thu Oct 04 17:17:46 +0000 2018,0.0,0.0,1.0,0.0,51,"The Big Bang Theory.
+Young Sheldon, Mom, Murphy Brown.
+S.W.A.T. Watch them tonight.
+
+#NationalPoetryDay"
+CBS,Thu Oct 04 00:34:37 +0000 2018,-0.3875,0.0,0.774,0.226,52,@shygirlsue @Ranker And we couldn't be prouder of you.😊 https://t.co/Rt9bRkv32J
+CBS,Wed Oct 03 23:45:21 +0000 2018,0.0,0.0,1.0,0.0,53,@suferah_khan https://t.co/hkLN6VK6WI
+CBS,Wed Oct 03 23:39:03 +0000 2018,0.7906,0.318,0.682,0.0,54,.@Ranker is ranking the best CBS shows of all time. Did your favorites make the list? https://t.co/D3ZrfZK0Q9
+CBS,Wed Oct 03 19:35:31 +0000 2018,0.4939,0.151,0.849,0.0,55,".@CrimMinds_CBS returns tonight for its 300th episode. In honor of the milestone season premiere, the cast has a me… https://t.co/o9aKkBKKtw"
+CBS,Wed Oct 03 17:05:20 +0000 2018,0.6956,0.31,0.69,0.0,56,".@wayansjr debuted his perfect impression of his father on @colbertlateshow but everybody, be cool, and don't tell… https://t.co/MWa9UNOORj"
+CBS,Tue Oct 02 21:25:29 +0000 2018,0.8858,0.354,0.646,0.0,57,RT @CBSAllAccess: It's a great day to be a fan of #TheTwilightZone! We're celebrating the 59th anniversary of the classic series AND the of…
+CBS,Tue Oct 02 18:36:26 +0000 2018,0.0,0.0,1.0,0.0,58,"⚡️ “Happy Together Premieres on CBS”
+
+https://t.co/W7IvELcMcw"
+CBS,Tue Oct 02 17:52:53 +0000 2018,-0.4449,0.0,0.836,0.164,59,"@miamicah We don't know for sure about that, but we are sure that you should be some sort of TV detective. 🙂 https://t.co/uW5aSn7jlO"
+CBS,Tue Oct 02 16:49:34 +0000 2018,0.0,0.0,1.0,0.0,60,"⚡️ “The Neighborhood Premieres on CBS”
+
+https://t.co/R72l342BFE"
+CBS,Tue Oct 02 02:42:23 +0000 2018,0.3182,0.119,0.881,0.0,61,"RT @startrekcbs: Discover the next adventure of #StarTrekDiscovery January 2019, and catch #Starfleet at @NY_Comic_Con THIS Saturday. https…"
+CBS,Tue Oct 02 01:10:54 +0000 2018,0.765,0.292,0.708,0.0,62,The stars of @TheNeighborhood and @happytogether celebrated their shows' premieres on CBS tonight with a good old f… https://t.co/fu9SJzv7hZ
+CBS,Tue Oct 02 00:01:07 +0000 2018,0.0,0.0,1.0,0.0,63,"RT @TheNeighborhood: It's almost time! Our live Q&amp;A with the casts of #TheNeighborhood &amp; #HappyTogether is starting at 8pm ET/ 5pm PT. 
+
+Se…"
+CBS,Mon Oct 01 21:56:03 +0000 2018,0.0,0.0,1.0,0.0,64,Head over to the CBS Facebook page now for the #FacebookLive with @happytogether’s @wayansjr and @TheNeighborhood’s… https://t.co/37QOrVA1sh
+CBS,Mon Oct 01 16:33:11 +0000 2018,0.296,0.136,0.864,0.0,65,Join @happytogether's @wayansjr and @TheNeighborhood's @iamgreenfield for a Facebook Live TODAY at 5:45p ET/2:45 PT… https://t.co/klrx7cA41H
+CBS,Sun Sep 30 23:51:26 +0000 2018,-0.2263,0.0,0.909,0.091,66,"Due to #NFL football game overrun, #CBS Sunday lineup is delayed in East/Central time zones ONLY. New start times:… https://t.co/zmEn7CVlUi"
+CBS,Sun Sep 30 17:00:00 +0000 2018,0.6124,0.19,0.81,0.0,67,The cast of @GodFriendedMe answers some heavenly questions about social media before the show premieres tonight aft… https://t.co/61Tx2GTn35
+CBS,Sun Sep 30 14:34:18 +0000 2018,0.0,0.0,1.0,0.0,68,RT @CBSAllAccess: Stream NFL on CBS LIVE today starting at 1pm ET on CBS All Access! 🏈 https://t.co/vsod8jYeZl https://t.co/UBp3R4UCAd
+CBS,Fri Sep 28 22:22:01 +0000 2018,0.0,0.0,1.0,0.0,69,"On @colbertlateshow, @TheNeighborhood's @CedEntertainer and Stephen recall the first time they met on a night when… https://t.co/vjz1zVg4sR"
+CBS,Fri Sep 28 20:16:14 +0000 2018,0.0,0.0,1.0,0.0,70,".@happytogether's @wayansjr, @HereIsGina &amp; @latelateshow discuss the pros and cons of living with a pop star. Con:… https://t.co/PLXFxfheW7"
+CBS,Fri Sep 28 17:52:41 +0000 2018,0.0,0.0,1.0,0.0,71,"If you haven't seen @SEALTeamCBS, make it your mission to know them before the #SEALTeam Season 2 premiere October… https://t.co/NhCPI3lZSV"
+CBS,Fri Sep 28 16:51:50 +0000 2018,0.0,0.0,1.0,0.0,72,"⚡️ “Murphy Brown Returns to CBS”
+
+https://t.co/3vsAg7WcB1"
+CBS,Thu Sep 27 20:19:18 +0000 2018,0.0,0.0,1.0,0.0,73,.@TheNeighborhood's @iamgreenfield revealing his Fiddler on the Roof goals on @latelateshow will be the earworm you… https://t.co/swbh8HPwA1
+CBS,Thu Sep 27 20:01:53 +0000 2018,0.0,0.0,1.0,0.0,74,RT @MurphyBrownCBS: A moment 20 years in the making all comes down to this. #MurphyBrown returns to @CBS tonight! https://t.co/tWSMFM3YbG
+CBS,Thu Sep 27 17:19:16 +0000 2018,0.0,0.0,1.0,0.0,75,"Candice Bergen tells @colbertlateshow the presidential way tonight's @MurphyBrownCBS premiere imitates life, albeit… https://t.co/4Kbk8gt6nS"
+CBS,Thu Sep 27 16:58:08 +0000 2018,-0.34,0.191,0.526,0.283,76,@marlagardner222 @jay_hernandez Good idea. The theme song is a dead giveaway. 😉
+CBS,Thu Sep 27 00:44:13 +0000 2018,0.0,0.0,1.0,0.0,77,@queenmama7777 @CBSAllAccess We believe in you! https://t.co/ZK0xaPRxVr
+CBS,Thu Sep 27 00:42:15 +0000 2018,0.0,0.0,1.0,0.0,78,@BSkyjackcity @jokersupdates @CBSAllAccess On it. https://t.co/yxKX9ry7fw
+CBS,Wed Sep 26 21:49:27 +0000 2018,0.1139,0.071,0.929,0.0,79,Sixteen houseguests entered and now it's down to the Final 3. Don't miss a second of the 90-minute #BB20Finale toni… https://t.co/KwDHR9Hfqu
+CBS,Wed Sep 26 19:57:54 +0000 2018,0.6249,0.221,0.779,0.0,80,"The tribe has spoken, and they do a pretty decent @JeffProbst impression just in time for the @survivorcbs Season P… https://t.co/2Ps8VKblay"
+CBS,Wed Sep 26 17:25:43 +0000 2018,0.0,0.0,1.0,0.0,81,"⚡️ “FBI Premieres on CBS”
+
+https://t.co/faL6iHZc5g"
+CBS,Tue Sep 25 21:10:56 +0000 2018,-0.2714,0.106,0.745,0.149,82,"RT @CBSAllAccess: A night of crime dramas?! Oh yes. 🙌 Stream @NCIS_CBS, @FBICBS &amp; @NCISNewOrleans starting at 8/7c on CBS All Access: https…"
+CBS,Tue Sep 25 20:31:45 +0000 2018,-0.2263,0.0,0.909,0.091,83,"Before @FBICBS premieres tonight, @mperegrym stopped by @CBSThisMorning to talk about her role as an FBI agent in t… https://t.co/CPVki4Hv8y"
+CBS,Tue Sep 25 19:54:26 +0000 2018,0.0,0.0,1.0,0.0,84,RT @CBSAllAccess: 🚨 @PatrickBrammall. Tim Meadows. @jessicaalba. @iamgreenfield. @AHWAmySedaris. @ChrisGethard. @JoeManganiello. AND SO MAN…
+CBS,Tue Sep 25 19:45:33 +0000 2018,0.7901,0.291,0.709,0.0,85,RT @bigbangtheory: Happy #NationalComicBookDay from Sheldon and his many shirts! How are you sporting your favorite superhero today? #BigBa…
+CBS,Tue Sep 25 18:34:26 +0000 2018,0.0,0.0,1.0,0.0,86,"⚡️ “Magnum P.I. Premieres on CBS”
+
+https://t.co/UtbQlcDG8S"
+CBS,Tue Sep 25 18:05:31 +0000 2018,0.0,0.0,1.0,0.0,87,".@jay_hernandez went on @latelateshow to talk about @MagnumPICBS, but he may have gotten @TiffanyHaddish as a surf… https://t.co/a3acRu10aw"
+CBS,Mon Sep 24 18:56:15 +0000 2018,0.0,0.0,1.0,0.0,88,"RT @60Minutes: 60 Minutes turns 50 today. Tick, tick, tick ... https://t.co/3CVKEs9J7F"
+CBS,Sun Sep 23 23:24:03 +0000 2018,-0.2263,0.0,0.913,0.087,89,"Due to #NFL football game overrun, #CBS Sunday lineup is delayed in ATL, Indy, NOLA, Kansas City, NYC, Philly, Prov… https://t.co/fejqoxtvSY"
+CBS,Sun Sep 23 14:00:00 +0000 2018,0.0,0.0,1.0,0.0,90,Kick off your Sunday with @NFL on CBS. Catch your local games live on CBS and @CBSAllAccess. 🏈📺… https://t.co/kbo7N27mY9
+CBS,Fri Sep 21 19:18:00 +0000 2018,0.296,0.144,0.758,0.098,91,"How does $100,000 sound? Because someone is going to win all that tonight on the @TKOCBS Battle Royale finale at 9p… https://t.co/JEuUZ2QlQh"
+CBS,Fri Sep 21 17:46:26 +0000 2018,-0.1531,0.142,0.672,0.187,92,@colbertlateshow @IainLoveTheatre @IainLoveTheatre made a compelling argument. We'll get back to you. 😉
+CBS,Thu Sep 20 23:17:19 +0000 2018,0.296,0.109,0.891,0.0,93,"Now that @bigbangtheory is entering its last season, Kaley Cuoco admits to @latelateshow she's over the show's noto… https://t.co/xvhlMWBhSX"
+CBS,Thu Sep 20 21:38:21 +0000 2018,0.6467,0.157,0.843,0.0,94,RT @HawaiiFive0CBS: It’s the big Five-0! 🎉 🌊 #H50 premiered on this day in 1968! Celebrate 50 years of Hawaii Five-0 with every season of b…
+CBS,Thu Sep 20 16:47:26 +0000 2018,0.0,0.0,1.0,0.0,95,RT @JordanPeele: 📺🌀 https://t.co/CygbVi4JFC
+CBS,Wed Sep 19 19:07:37 +0000 2018,-0.0531,0.176,0.588,0.236,96,The @latelateshow and @JKCorden will never be good enough for @henrygolding's crazy rich mom.… https://t.co/xVmH5Iyfvs
+CBS,Tue Sep 18 17:04:20 +0000 2018,0.6486,0.209,0.791,0.0,97,RT @CBSThisMorning: Imagine receiving a digital friend request from someone claiming to be God. What would you do? The new @CBS drama @GodF…
+CBS,Mon Sep 17 22:01:52 +0000 2018,0.9642,0.527,0.473,0.0,98,"RT @PriceIsRight: We're thrilled to be back with all new, fun, and exciting shows!!  We hope to give you another award winning season! HERE…"
+CBS,Mon Sep 17 21:41:20 +0000 2018,0.0,0.0,1.0,0.0,99,RT @SalvationCBS: X marks the spot on the heart-stopping season finale of #SalvationCBS tonight at 9/8c on CBS &amp; CBS All Access: https://t.…
+CBS,Mon Sep 17 19:18:37 +0000 2018,0.3612,0.263,0.737,0.0,100,Waiting for tonight's @Elementary_CBS season finale like https://t.co/Ou8342vGT9
+CNN,Thu Oct 18 00:21:54 +0000 2018,0.0,0.0,1.0,0.0,1,"RT @AC360: ""We should stand up for human rights everywhere in the world.""
+
+Democratic @SenJeffMerkley tells @andersoncooper it should not m…"
+CNN,Thu Oct 18 00:19:38 +0000 2018,0.0,0.0,1.0,0.0,2,"JUST IN: Don McGahn out as White House counsel, sources say https://t.co/KwxxKh2E2T https://t.co/dHF8TBYsHp"
+CNN,Thu Oct 18 00:15:09 +0000 2018,-0.4404,0.0,0.854,0.146,3,"September was highest month on record for Border Patrol arrests of family members, The Washington Post reports… https://t.co/u0Aj2hDR2U"
+CNN,Thu Oct 18 00:00:05 +0000 2018,0.0,0.0,1.0,0.0,4,The 28-year-old woman reshaping Afghanistan's politics https://t.co/87kWoxHHS7 (via @CNNOpinion) https://t.co/em3ulhoKb8
+CNN,Wed Oct 17 23:45:03 +0000 2018,0.0,0.0,1.0,0.0,5,Why do we still know so little about Saudi journalist Jamal Khashoggi's disappearance? https://t.co/gW0Y7CYFs5 (via… https://t.co/nKmkLIy5Rh
+CNN,Wed Oct 17 23:42:22 +0000 2018,-0.0772,0.104,0.781,0.115,6,"RT @OutFrontCNN: In Texas, can the Democratic ""nice guy"" take off the gloves and go on the attack against the Republican incumbent?  
+
+@Bet…"
+CNN,Wed Oct 17 23:30:12 +0000 2018,0.0,0.0,1.0,0.0,7,"HIV pre-exposure prophylaxis can ""significantly"" reduce HIV rates across populations, study says… https://t.co/IjLkoujLfT"
+CNN,Wed Oct 17 23:15:09 +0000 2018,-0.4019,0.0,0.816,0.184,8,"With new counsel on board, White House braces for post-election fights https://t.co/1n0xmQ4mMR https://t.co/oXFRoVcNRs"
+CNN,Wed Oct 17 23:05:06 +0000 2018,-0.0258,0.128,0.739,0.133,9,"Republicans' hypocrisy on the US deficit is stunning, even in Washington https://t.co/DXkjktdIMp | Analysis by Z. B… https://t.co/sJSRLi9GQ0"
+CNN,Wed Oct 17 22:58:03 +0000 2018,0.1779,0.213,0.787,0.0,10,Tech executives want Senator Graham to apologize over Iranian remark https://t.co/qaVdMKGdnH https://t.co/Jkdu3DrEM6
+CNN,Wed Oct 17 22:51:03 +0000 2018,0.4963,0.208,0.792,0.0,11,Trump administration again skips labeling China a currency manipulator despite the recent drop in the value of the… https://t.co/6xZymUdHc9
+CNN,Wed Oct 17 22:44:04 +0000 2018,0.4963,0.208,0.792,0.0,12,Trump administration again skips labeling China a currency manipulator despite the recent drop in the value of the… https://t.co/PetzbCpMm9
+CNN,Wed Oct 17 22:37:04 +0000 2018,-0.2732,0.0,0.811,0.189,13,Uber driver faces kidnapping charges in New York https://t.co/vNkrlsbu3B https://t.co/kLURHzXJ2d
+CNN,Wed Oct 17 22:30:03 +0000 2018,-0.4019,0.0,0.787,0.213,14,US flies B-52s near contested islands amid China tensions https://t.co/AKhEKO2pKk https://t.co/65HqFlQ1c5
+CNN,Wed Oct 17 22:25:07 +0000 2018,0.4767,0.186,0.814,0.0,15,"LIVE NOW: Recreational marijuana is now legal in Canada. Bruce Linton, the CEO of cannabis company Canopy Growth, j… https://t.co/H8CRRS6wkh"
+CNN,Wed Oct 17 22:20:06 +0000 2018,0.743,0.259,0.741,0.0,16,Sergeant Major (Ret.) John Canley has received the Medal of Honor more than 50 years after his extraordinary herois… https://t.co/5efRdMp77q
+CNN,Wed Oct 17 22:19:55 +0000 2018,0.0,0.0,1.0,0.0,17,"RT @CNNSitRoom: Rep. Denny Heck: ""I've got a simple message, frankly, for the Saudis. You can take your oil and shove it because human righ…"
+CNN,Wed Oct 17 22:15:08 +0000 2018,-0.7096,0.0,0.629,0.371,18,Canada's legalization of marijuana could hurt farmers in poorer countries https://t.co/aElJKLlfbK https://t.co/Hf1qH9IxRp
+CNN,Wed Oct 17 22:09:03 +0000 2018,-0.296,0.0,0.896,0.104,19,Democrats and their allies are still dominating most of the campaign airwaves in key House races across the country… https://t.co/QmUtmHsSx5
+CNN,Wed Oct 17 22:02:06 +0000 2018,-0.8689,0.0,0.683,0.317,20,"""I think he's dead. And I think the Saudis killed him."" Sen. John Kennedy was blunt about what he believes happened… https://t.co/FX1Ads7pIF"
+CNN,Thu Oct 18 00:21:54 +0000 2018,0.0,0.0,1.0,0.0,21,"RT @AC360: ""We should stand up for human rights everywhere in the world.""
+
+Democratic @SenJeffMerkley tells @andersoncooper it should not m…"
+CNN,Thu Oct 18 00:19:38 +0000 2018,0.0,0.0,1.0,0.0,22,"JUST IN: Don McGahn out as White House counsel, sources say https://t.co/KwxxKh2E2T https://t.co/dHF8TBYsHp"
+CNN,Thu Oct 18 00:15:09 +0000 2018,-0.4404,0.0,0.854,0.146,23,"September was highest month on record for Border Patrol arrests of family members, The Washington Post reports… https://t.co/u0Aj2hDR2U"
+CNN,Thu Oct 18 00:00:05 +0000 2018,0.0,0.0,1.0,0.0,24,The 28-year-old woman reshaping Afghanistan's politics https://t.co/87kWoxHHS7 (via @CNNOpinion) https://t.co/em3ulhoKb8
+CNN,Wed Oct 17 23:45:03 +0000 2018,0.0,0.0,1.0,0.0,25,Why do we still know so little about Saudi journalist Jamal Khashoggi's disappearance? https://t.co/gW0Y7CYFs5 (via… https://t.co/nKmkLIy5Rh
+CNN,Wed Oct 17 23:42:22 +0000 2018,-0.0772,0.104,0.781,0.115,26,"RT @OutFrontCNN: In Texas, can the Democratic ""nice guy"" take off the gloves and go on the attack against the Republican incumbent?  
+
+@Bet…"
+CNN,Wed Oct 17 23:30:12 +0000 2018,0.0,0.0,1.0,0.0,27,"HIV pre-exposure prophylaxis can ""significantly"" reduce HIV rates across populations, study says… https://t.co/IjLkoujLfT"
+CNN,Wed Oct 17 23:15:09 +0000 2018,-0.4019,0.0,0.816,0.184,28,"With new counsel on board, White House braces for post-election fights https://t.co/1n0xmQ4mMR https://t.co/oXFRoVcNRs"
+CNN,Wed Oct 17 23:05:06 +0000 2018,-0.0258,0.128,0.739,0.133,29,"Republicans' hypocrisy on the US deficit is stunning, even in Washington https://t.co/DXkjktdIMp | Analysis by Z. B… https://t.co/sJSRLi9GQ0"
+CNN,Wed Oct 17 22:58:03 +0000 2018,0.1779,0.213,0.787,0.0,30,Tech executives want Senator Graham to apologize over Iranian remark https://t.co/qaVdMKGdnH https://t.co/Jkdu3DrEM6
+CNN,Wed Oct 17 22:51:03 +0000 2018,0.4963,0.208,0.792,0.0,31,Trump administration again skips labeling China a currency manipulator despite the recent drop in the value of the… https://t.co/6xZymUdHc9
+CNN,Wed Oct 17 22:44:04 +0000 2018,0.4963,0.208,0.792,0.0,32,Trump administration again skips labeling China a currency manipulator despite the recent drop in the value of the… https://t.co/PetzbCpMm9
+CNN,Wed Oct 17 22:37:04 +0000 2018,-0.2732,0.0,0.811,0.189,33,Uber driver faces kidnapping charges in New York https://t.co/vNkrlsbu3B https://t.co/kLURHzXJ2d
+CNN,Wed Oct 17 22:30:03 +0000 2018,-0.4019,0.0,0.787,0.213,34,US flies B-52s near contested islands amid China tensions https://t.co/AKhEKO2pKk https://t.co/65HqFlQ1c5
+CNN,Wed Oct 17 22:25:07 +0000 2018,0.4767,0.186,0.814,0.0,35,"LIVE NOW: Recreational marijuana is now legal in Canada. Bruce Linton, the CEO of cannabis company Canopy Growth, j… https://t.co/H8CRRS6wkh"
+CNN,Wed Oct 17 22:20:06 +0000 2018,0.743,0.259,0.741,0.0,36,Sergeant Major (Ret.) John Canley has received the Medal of Honor more than 50 years after his extraordinary herois… https://t.co/5efRdMp77q
+CNN,Wed Oct 17 22:19:55 +0000 2018,0.0,0.0,1.0,0.0,37,"RT @CNNSitRoom: Rep. Denny Heck: ""I've got a simple message, frankly, for the Saudis. You can take your oil and shove it because human righ…"
+CNN,Wed Oct 17 22:15:08 +0000 2018,-0.7096,0.0,0.629,0.371,38,Canada's legalization of marijuana could hurt farmers in poorer countries https://t.co/aElJKLlfbK https://t.co/Hf1qH9IxRp
+CNN,Wed Oct 17 22:09:03 +0000 2018,-0.296,0.0,0.896,0.104,39,Democrats and their allies are still dominating most of the campaign airwaves in key House races across the country… https://t.co/QmUtmHsSx5
+CNN,Wed Oct 17 22:02:06 +0000 2018,-0.8689,0.0,0.683,0.317,40,"""I think he's dead. And I think the Saudis killed him."" Sen. John Kennedy was blunt about what he believes happened… https://t.co/FX1Ads7pIF"
+CNN,Wed Oct 17 21:55:07 +0000 2018,0.4767,0.204,0.796,0.0,41,"Recreational marijuana is now legal in Canada. Bruce Linton, the CEO of cannabis company Canopy Growth, joins… https://t.co/qtPB8SQsOe"
+CNN,Wed Oct 17 21:48:07 +0000 2018,0.2023,0.167,0.833,0.0,42,"Meet President Trump, the White House's top spokesperson https://t.co/C9zsMtan8z https://t.co/fw8A2H06AE"
+CNN,Wed Oct 17 21:41:10 +0000 2018,0.0,0.0,1.0,0.0,43,New York Attorney General is investigating MoviePass parent company https://t.co/zcdlo1ocZx https://t.co/kZaXndaZa1
+CNN,Wed Oct 17 21:34:06 +0000 2018,0.0516,0.112,0.789,0.099,44,Sens. Bernie Sanders and Elizabeth Warren demand answers from Amazon on alleged union-busting… https://t.co/xZ13JQrUr5
+CNN,Wed Oct 17 21:27:07 +0000 2018,0.0,0.0,1.0,0.0,45,Democrats aren't closing the deal in must-win Senate races https://t.co/dEwr7ggsFV | Analysis by Harry Enten https://t.co/gV0vy9J9RJ
+CNN,Wed Oct 17 21:20:05 +0000 2018,-0.7269,0.063,0.628,0.309,46,Sen. Heidi Heitkamp's re-election campaign mistakenly named women as abuse survivors. Now they want answers.… https://t.co/Wo3dZeubTR
+CNN,Wed Oct 17 21:18:51 +0000 2018,0.3182,0.099,0.901,0.0,47,"RT @TheLeadCNN: ""A ringing endorsement"" from President Trump to Ted Cruz this morning says @jaketapper as he reminds viewers that ""it wasn'…"
+CNN,Wed Oct 17 21:13:03 +0000 2018,-0.8957,0.104,0.382,0.514,48,Priest accused of child sexual abuse in grand jury report pleads guilty to felony charges https://t.co/RoXtaFVA4z https://t.co/p9Vv7GlZa0
+CNN,Wed Oct 17 21:06:03 +0000 2018,-0.7845,0.0,0.566,0.434,49,California surgeon and girlfriend accused in additional rape cases https://t.co/AUmSlxdsVM https://t.co/CLR7YuKtXH
+CNN,Wed Oct 17 20:59:06 +0000 2018,0.0,0.0,1.0,0.0,50,"Julia Louis-Dreyfus never considered departing ""Veep"" https://t.co/wAfg9WaBPY https://t.co/FUPew7gyfD"
+CNN,Wed Oct 17 20:52:06 +0000 2018,0.3612,0.135,0.865,0.0,51,President Trump is getting ready to throw Republicans under the bus https://t.co/edwFQ96r1H | Analysis by Chris Cil… https://t.co/SbYjOXrYWU
+CNN,Wed Oct 17 20:45:36 +0000 2018,0.0,0.0,1.0,0.0,52,"Republican Sen. John Kennedy responds to President Trump calling adult film actress Stormy Daniels ""horseface"" by s… https://t.co/ubV3HWtFd3"
+CNN,Wed Oct 17 20:38:03 +0000 2018,0.0,0.0,1.0,0.0,53,"Jared Kushner, facing scrutiny for cultivating close ties with Saudi Arabia's crown price, has remained intentional… https://t.co/2gfalIZ5Nh"
+CNN,Wed Oct 17 20:31:07 +0000 2018,0.7935,0.371,0.574,0.055,54,"Chief Justice John Roberts touts collegiality, but Supreme Court's record suggests otherwise https://t.co/87ZSg55ASa https://t.co/mNgqdbglhD"
+CNN,Wed Oct 17 20:26:20 +0000 2018,-0.34,0.067,0.815,0.119,55,"RT @TheLeadCNN: Trump ""has had harsher words in the last week or so for Stormy Daniels, Senator Elizabeth Warren and Taylor Swift, than he…"
+CNN,Wed Oct 17 20:24:06 +0000 2018,0.0,0.0,1.0,0.0,56,Quickly catch up on the day's news https://t.co/TfT61EFz5s https://t.co/CBmJhMWGWD
+CNN,Wed Oct 17 20:17:03 +0000 2018,-0.4215,0.0,0.843,0.157,57,We're just 2 years away from the next recession https://t.co/5Av1TTET5Q | Mark Zandi for CNN Business Perspectives https://t.co/M0lxnof7Am
+CNN,Wed Oct 17 20:10:09 +0000 2018,0.128,0.129,0.766,0.105,58,The FBI asks for the public's help in finding missing Wisconsin girl whose parents were found dead… https://t.co/bwKesnybyP
+CNN,Wed Oct 17 20:03:06 +0000 2018,0.5432,0.291,0.709,0.0,59,Fed appears committed to gradual tightening despite criticism from President Trump https://t.co/3Gh1yRrMhu https://t.co/8VnhuuN9O3
+CNN,Wed Oct 17 19:56:06 +0000 2018,0.3182,0.187,0.813,0.0,60,President Trump is a huge factor in Americans' midterm votes https://t.co/z0jHeDasVS https://t.co/E72SOdFJ7u
+CNN,Wed Oct 17 19:49:06 +0000 2018,0.2023,0.096,0.904,0.0,61,Treasury Secretary Steven Mnuchin says he'll make a decision Thursday on whether to attend an investor conference i… https://t.co/7nwpCCTFhz
+CNN,Wed Oct 17 19:42:04 +0000 2018,0.0,0.0,1.0,0.0,62,Texas high school students won't graduate unless they watch video on how to interact with police… https://t.co/a1Hhx9rny0
+CNN,Wed Oct 17 19:35:04 +0000 2018,0.0,0.0,1.0,0.0,63,Netflix has plenty of room left to grow https://t.co/M73Knd4Mo3 https://t.co/8g0xoSLslZ
+CNN,Wed Oct 17 19:28:03 +0000 2018,-0.2732,0.0,0.9,0.1,64,President Trump has instructed every agency secretary in his Cabinet to cut 5 percent from their budgets for next y… https://t.co/4r73mTfECM
+CNN,Wed Oct 17 19:21:07 +0000 2018,-0.128,0.0,0.927,0.073,65,How high will oil go? President Trump's looming sanctions on Iran are the biggest in a series of mysteries confront… https://t.co/K6Gx4feL6s
+CNN,Wed Oct 17 19:14:06 +0000 2018,0.4767,0.171,0.829,0.0,66,Senate Majority Leader Mitch McConnell confidently predicts there wouldn't be a year-end government shutdown and wa… https://t.co/zSXVKD3xvW
+CNN,Wed Oct 17 19:07:06 +0000 2018,-0.4588,0.0,0.727,0.273,67,Drug-resistant salmonella from chicken sickens nearly 100 https://t.co/tqCXX2uhg8 https://t.co/dzB6zxlGxV
+CNN,Wed Oct 17 19:00:03 +0000 2018,0.25,0.143,0.857,0.0,68,"""Kids Are Alright"" creator shifts ""juice"" from political to the personal https://t.co/jClIwITymv https://t.co/s3ivzUMbm9"
+CNN,Wed Oct 17 18:53:06 +0000 2018,0.2023,0.079,0.921,0.0,69,25 of the top US burger chains were graded on their antibiotic policies in a new report released today. Only two ch… https://t.co/ihyrknHA1y
+CNN,Wed Oct 17 18:46:08 +0000 2018,0.34,0.138,0.862,0.0,70,This hospital is giving children kid-sized electric cars so they can drive themselves to operations… https://t.co/g3IPARfoZh
+CNN,Wed Oct 17 18:39:05 +0000 2018,0.0,0.0,1.0,0.0,71,Most of the big names who were due to attend Saudi Arabia's investment conference next week have bailed out followi… https://t.co/r8UqrKNpto
+CNN,Wed Oct 17 18:32:15 +0000 2018,-0.7269,0.0,0.663,0.337,72,These World Heritage sites could be damaged or destroyed by climate change https://t.co/ioKUiKn0wh https://t.co/M7us6llzEE
+CNN,Wed Oct 17 18:25:04 +0000 2018,0.0,0.0,1.0,0.0,73,"First lady Melania Trump's spokeswoman calls out rapper T.I., whose most recent music video features a Trump lookal… https://t.co/FbNkll5HFa"
+CNN,Wed Oct 17 18:18:40 +0000 2018,-0.5994,0.14,0.518,0.342,74,Veteran battling suicidal thoughts opens horse ranch to help military families https://t.co/mmEuXxpCfy https://t.co/YDsMj2ZwKR
+CNN,Wed Oct 17 18:10:05 +0000 2018,0.128,0.158,0.842,0.0,75,Recreational marijuana is now legal in Canada https://t.co/ygpxwnARAD https://t.co/5ptNRMuJbx
+CNN,Wed Oct 17 18:00:00 +0000 2018,-0.4019,0.0,0.722,0.278,76,Democrats have a problem with Latino voters https://t.co/mLwpzKPaFh https://t.co/out9zr9bud
+CNN,Wed Oct 17 17:50:00 +0000 2018,-0.4939,0.0,0.856,0.144,77,"Caroll Spinney, the puppeteer who has portrayed Big Bird and Oscar the Grouch on ""Sesame Street"" since the program'… https://t.co/9TLeBXOMMX"
+CNN,Wed Oct 17 17:40:07 +0000 2018,0.0,0.0,1.0,0.0,78,The ongoing outbreak of Ebola in the Democratic Republic of Congo does not meet the criteria of a public health eme… https://t.co/3ntXc7gIyX
+CNN,Wed Oct 17 17:35:56 +0000 2018,0.1027,0.096,0.826,0.078,79,Watch out Bruno Mars — this robot can seriously dance. Boston Dynamics has released footage of its robotic dog Spot… https://t.co/YATc2xsoWe
+CNN,Wed Oct 17 17:26:57 +0000 2018,0.6369,0.189,0.811,0.0,80,"Love the environment and sports cars? Engineers have taken a Corvette and made it into a 220 mph, manual transmissi… https://t.co/ukWmLVcq9t"
+CNN,Wed Oct 17 17:20:04 +0000 2018,0.0,0.0,1.0,0.0,81,"Former President Obama is urging young voters to get to the polls next month in a new video that ""tackles seven com… https://t.co/gmHvWz4z0Q"
+CNN,Wed Oct 17 17:15:14 +0000 2018,0.0258,0.094,0.816,0.09,82,"RT @CNNnewsroom: ""There's no question that the Saudis were responsible for his death,"" says Sen. Ben Cardin adding that ""the President need…"
+CNN,Wed Oct 17 17:10:07 +0000 2018,0.128,0.073,0.927,0.0,83,Cannabis stocks have been on a wild ride lately. But now that marijuana is legal for recreational purposes in Canad… https://t.co/P3d2h91OOK
+CNN,Wed Oct 17 17:02:10 +0000 2018,-0.2732,0.0,0.905,0.095,84,The US Secret Service says it is reviewing an incident in which an agent blocked a CBS News reporter from questioni… https://t.co/jMDryRByVG
+CNN,Wed Oct 17 16:55:19 +0000 2018,0.4939,0.158,0.842,0.0,85,"Elizabeth Warren wants Toys 'R' Us owners to take care of its 30,000 laid off workers https://t.co/xmdFIFnypD https://t.co/FT4NAj09PY"
+CNN,Wed Oct 17 16:42:07 +0000 2018,-0.4019,0.0,0.87,0.13,86,"Tensions with Saudi Arabia, rising oil prices, market volatility and more: Tune in to @CNNBusiness' ""Markets Now"" a… https://t.co/czFjKa8nqo"
+CNN,Wed Oct 17 16:37:05 +0000 2018,-0.2023,0.133,0.742,0.125,87,The number of people infected with the Zika virus in India has increased to 80 confirmed cases in the western state… https://t.co/iuQsdmOz7Q
+CNN,Wed Oct 17 16:27:06 +0000 2018,0.0,0.0,1.0,0.0,88,Here's what Canada's legalization of marijuana means for travelers https://t.co/sIEp9u3RPC https://t.co/IefJWhiX3v
+CNN,Wed Oct 17 16:17:31 +0000 2018,-0.6597,0.0,0.784,0.216,89,"President Trump says he has asked for the audio of Jamal Khashoggi’s killing — ""if it exists""… https://t.co/cbLXxtZrZY"
+CNN,Wed Oct 17 16:16:59 +0000 2018,-0.34,0.045,0.862,0.093,90,"RT @CNNPolitics: Trump: “I want to find out what happened, where is the fault, and we will probably know that by the end of the week. Mike…"
+CNN,Wed Oct 17 16:16:39 +0000 2018,-0.1027,0.103,0.776,0.121,91,"RT @CNNPolitics: President Donald Trump denies he's ""giving cover"" to Saudis during the investigation into the disappearance of Jamal Khash…"
+CNN,Wed Oct 17 16:12:05 +0000 2018,0.4215,0.128,0.872,0.0,92,First-time mothers in the United States grew older on average over the past decade while total fertility rates decl… https://t.co/CF4xRvylaE
+CNN,Wed Oct 17 16:05:49 +0000 2018,0.128,0.158,0.842,0.0,93,Recreational marijuana is now legal in Canada https://t.co/bchuqOI5iQ https://t.co/SjipvW205A
+CNN,Wed Oct 17 15:50:07 +0000 2018,-0.7506,0.0,0.701,0.299,94,"A North Carolina state trooper was fatally shot early Wednesday during a traffic stop in Columbus County, authoriti… https://t.co/9SLgAs54fD"
+CNN,Wed Oct 17 15:40:05 +0000 2018,-0.4939,0.0,0.856,0.144,95,"Caroll Spinney, the puppeteer who has portrayed Big Bird and Oscar the Grouch on ""Sesame Street"" since the program'… https://t.co/rDJYecoaBu"
+CNN,Wed Oct 17 15:30:07 +0000 2018,-0.0191,0.0,0.933,0.067,96,"EPA children's health director on why she was ousted: ""Maybe saving children doesn't matter anymore.""… https://t.co/wO9fdu6gys"
+CNN,Wed Oct 17 15:23:37 +0000 2018,0.34,0.138,0.862,0.0,97,This hospital is giving children kid-sized electric cars so they can drive themselves to operations… https://t.co/0zPFiMZ1mT
+CNN,Wed Oct 17 15:20:08 +0000 2018,0.0,0.0,1.0,0.0,98,US Secretary of State Mike Pompeo says he has “nothing to say” about Turkish claims that they have audio of Jamal K… https://t.co/lrjK0TXord
+CNN,Wed Oct 17 15:16:12 +0000 2018,0.0,0.0,1.0,0.0,99,"For the first time, a woman is leading the largest command in the US Army https://t.co/BcZNGZWobW https://t.co/marZuLdMZu"
+CNN,Wed Oct 17 15:00:10 +0000 2018,0.3182,0.191,0.809,0.0,100,Self-lubricating condoms may be the answer in helping prevent sexually transmitted infections and unplanned pregnan… https://t.co/FqLnsoqYwl
+FoxNews,Thu Oct 18 00:21:00 +0000 2018,0.4019,0.213,0.787,0.0,1,Deputy AG Rosenstein: Special counsel probe is 'appropriate and independent' https://t.co/LF0edRJIkc
+FoxNews,Thu Oct 18 00:14:33 +0000 2018,0.0,0.0,1.0,0.0,2,.@MickMulvaneyOMB: “Keep in mind that the President’s budget that we introduced last year was the largest mandatory… https://t.co/MKM4pzkqH5
+FoxNews,Thu Oct 18 00:10:00 +0000 2018,-0.25,0.0,0.846,0.154,3,Arizona rescuers try saving man stuck in mine shaft for days. https://t.co/CIJRXEDAj1
+FoxNews,Thu Oct 18 00:09:13 +0000 2018,0.0,0.0,1.0,0.0,4,".@MickMulvaneyOMB: “Because of the economic policies that [@POTUS] has put into place, money is coming in at a reco… https://t.co/ayijC9yfGU"
+FoxNews,Thu Oct 18 00:02:18 +0000 2018,0.0,0.0,1.0,0.0,5,".@MickMulvaneyOMB: “Appropriations bills…take 60 votes in the Senate, and since Republicans don’t have 60 votes in… https://t.co/HCtNbzYxz4"
+FoxNews,Thu Oct 18 00:00:27 +0000 2018,0.0,0.0,1.0,0.0,6,".@MickMulvaneyOMB: “The last two times that we’ve talked about budgets in the cabinet meeting, [@POTUS] turned to m… https://t.co/ZzxSM8CfT9"
+FoxNews,Wed Oct 17 23:49:27 +0000 2018,0.5719,0.179,0.821,0.0,7,".@JonathanTurley “They celebrated her independence of thought and action, until that took her in a direction that t… https://t.co/2omafREbau"
+FoxNews,Wed Oct 17 23:46:48 +0000 2018,0.34,0.13,0.87,0.0,8,.@JonathanTurley on the push to rescind @SenatorCollins’ honorary degree: “What’s most disconcerting is that you ha… https://t.co/Cyc2njfoja
+FoxNews,Wed Oct 17 23:40:00 +0000 2018,-0.1027,0.096,0.792,0.113,9,".@JMfreespeech: “I think this is a huge problem for Donald Trump at this point, and for America, and for the Saudis… https://t.co/vRI0n2itMV"
+FoxNews,Wed Oct 17 23:37:04 +0000 2018,-0.3818,0.0,0.88,0.12,10,.@JMfreespeech: “@POTUS is desperately trying to buy some time until he can figure out whether or not there’s a way… https://t.co/5klCObsWAc
+FoxNews,Wed Oct 17 23:23:25 +0000 2018,-0.128,0.0,0.93,0.07,11,"Bill Bennett: “What’s ironic here is that one of the most liberal states in the country, Massachusetts, is now the… https://t.co/nF3Gkms5K3"
+FoxNews,Wed Oct 17 23:14:46 +0000 2018,-0.128,0.0,0.93,0.07,12,"Brad Todd: “In the Kavanaugh confirmation, Republicans saw that it took someone as tough as Donald Trump to stand b… https://t.co/UOojvbOXxR"
+FoxNews,Wed Oct 17 23:01:38 +0000 2018,-0.1027,0.125,0.729,0.146,13,"Terminally ill California boy, 7, is sworn in as honorary cop, following in dad’s footsteps https://t.co/UFptDJYjCl"
+FoxNews,Wed Oct 17 22:50:08 +0000 2018,0.0,0.0,1.0,0.0,14,".@marcthiessen on U.S.-Saudi relations: ""We need Saudi Arabia, not so much for oil because of the fracking revoluti… https://t.co/PS86AW1YGb"
+FoxNews,Wed Oct 17 22:41:39 +0000 2018,0.7096,0.258,0.742,0.0,15,"Texas woman holds wedding giveaway after calling off engagement, wants to 'see some good come out of this' https://t.co/LnfXk8Gtzs"
+FoxNews,Wed Oct 17 22:37:53 +0000 2018,-0.7783,0.0,0.673,0.327,16,".@TuckerCarlson: In their efforts to fight Trump, Democrats have become what they said they hated https://t.co/29gJ6hLg6o"
+FoxNews,Wed Oct 17 22:28:58 +0000 2018,-0.4767,0.0,0.838,0.162,17,.@newtgingrich: Republicans’ new rallying cry is ‘Remember Kavanaugh’ and it may lead them to midterm victory https://t.co/qiLGWBO9Wv
+FoxNews,Wed Oct 17 22:23:15 +0000 2018,0.0,0.0,1.0,0.0,18,".@MikeEmanuelFox: ""@POTUS' message to his @Cabinet today was it is time to get a handle on spending.""… https://t.co/O2bazcnxSa"
+FoxNews,Wed Oct 17 22:15:25 +0000 2018,0.0,0.0,1.0,0.0,19,Weinstein case's lead detective told witness to delete 'data of personal nature': report https://t.co/kq3CXJSSJJ
+FoxNews,Wed Oct 17 22:07:17 +0000 2018,-0.2732,0.0,0.826,0.174,20,"North Carolina bartender’s face cut after customers throw cups, food https://t.co/h8dL86Wwn8"
+FoxNews,Thu Oct 18 00:21:00 +0000 2018,0.4019,0.213,0.787,0.0,21,Deputy AG Rosenstein: Special counsel probe is 'appropriate and independent' https://t.co/LF0edRJIkc
+FoxNews,Thu Oct 18 00:14:33 +0000 2018,0.0,0.0,1.0,0.0,22,.@MickMulvaneyOMB: “Keep in mind that the President’s budget that we introduced last year was the largest mandatory… https://t.co/MKM4pzkqH5
+FoxNews,Thu Oct 18 00:10:00 +0000 2018,-0.25,0.0,0.846,0.154,23,Arizona rescuers try saving man stuck in mine shaft for days. https://t.co/CIJRXEDAj1
+FoxNews,Thu Oct 18 00:09:13 +0000 2018,0.0,0.0,1.0,0.0,24,".@MickMulvaneyOMB: “Because of the economic policies that [@POTUS] has put into place, money is coming in at a reco… https://t.co/ayijC9yfGU"
+FoxNews,Thu Oct 18 00:02:18 +0000 2018,0.0,0.0,1.0,0.0,25,".@MickMulvaneyOMB: “Appropriations bills…take 60 votes in the Senate, and since Republicans don’t have 60 votes in… https://t.co/HCtNbzYxz4"
+FoxNews,Thu Oct 18 00:00:27 +0000 2018,0.0,0.0,1.0,0.0,26,".@MickMulvaneyOMB: “The last two times that we’ve talked about budgets in the cabinet meeting, [@POTUS] turned to m… https://t.co/ZzxSM8CfT9"
+FoxNews,Wed Oct 17 23:49:27 +0000 2018,0.5719,0.179,0.821,0.0,27,".@JonathanTurley “They celebrated her independence of thought and action, until that took her in a direction that t… https://t.co/2omafREbau"
+FoxNews,Wed Oct 17 23:46:48 +0000 2018,0.34,0.13,0.87,0.0,28,.@JonathanTurley on the push to rescind @SenatorCollins’ honorary degree: “What’s most disconcerting is that you ha… https://t.co/Cyc2njfoja
+FoxNews,Wed Oct 17 23:40:00 +0000 2018,-0.1027,0.096,0.792,0.113,29,".@JMfreespeech: “I think this is a huge problem for Donald Trump at this point, and for America, and for the Saudis… https://t.co/vRI0n2itMV"
+FoxNews,Wed Oct 17 23:37:04 +0000 2018,-0.3818,0.0,0.88,0.12,30,.@JMfreespeech: “@POTUS is desperately trying to buy some time until he can figure out whether or not there’s a way… https://t.co/5klCObsWAc
+FoxNews,Wed Oct 17 23:23:25 +0000 2018,-0.128,0.0,0.93,0.07,31,"Bill Bennett: “What’s ironic here is that one of the most liberal states in the country, Massachusetts, is now the… https://t.co/nF3Gkms5K3"
+FoxNews,Wed Oct 17 23:14:46 +0000 2018,-0.128,0.0,0.93,0.07,32,"Brad Todd: “In the Kavanaugh confirmation, Republicans saw that it took someone as tough as Donald Trump to stand b… https://t.co/UOojvbOXxR"
+FoxNews,Wed Oct 17 23:01:38 +0000 2018,-0.1027,0.125,0.729,0.146,33,"Terminally ill California boy, 7, is sworn in as honorary cop, following in dad’s footsteps https://t.co/UFptDJYjCl"
+FoxNews,Wed Oct 17 22:50:08 +0000 2018,0.0,0.0,1.0,0.0,34,".@marcthiessen on U.S.-Saudi relations: ""We need Saudi Arabia, not so much for oil because of the fracking revoluti… https://t.co/PS86AW1YGb"
+FoxNews,Wed Oct 17 22:41:39 +0000 2018,0.7096,0.258,0.742,0.0,35,"Texas woman holds wedding giveaway after calling off engagement, wants to 'see some good come out of this' https://t.co/LnfXk8Gtzs"
+FoxNews,Wed Oct 17 22:37:53 +0000 2018,-0.7783,0.0,0.673,0.327,36,".@TuckerCarlson: In their efforts to fight Trump, Democrats have become what they said they hated https://t.co/29gJ6hLg6o"
+FoxNews,Wed Oct 17 22:28:58 +0000 2018,-0.4767,0.0,0.838,0.162,37,.@newtgingrich: Republicans’ new rallying cry is ‘Remember Kavanaugh’ and it may lead them to midterm victory https://t.co/qiLGWBO9Wv
+FoxNews,Wed Oct 17 22:23:15 +0000 2018,0.0,0.0,1.0,0.0,38,".@MikeEmanuelFox: ""@POTUS' message to his @Cabinet today was it is time to get a handle on spending.""… https://t.co/O2bazcnxSa"
+FoxNews,Wed Oct 17 22:15:25 +0000 2018,0.0,0.0,1.0,0.0,39,Weinstein case's lead detective told witness to delete 'data of personal nature': report https://t.co/kq3CXJSSJJ
+FoxNews,Wed Oct 17 22:07:17 +0000 2018,-0.2732,0.0,0.826,0.174,40,"North Carolina bartender’s face cut after customers throw cups, food https://t.co/h8dL86Wwn8"
+FoxNews,Wed Oct 17 21:58:06 +0000 2018,-0.6808,0.0,0.752,0.248,41,"UPDATE: Missing Wisconsin teen, 13, is in danger, not a runaway, cops say, as search intensifies after parents kill… https://t.co/6urD4gItHc"
+FoxNews,Wed Oct 17 21:48:14 +0000 2018,0.7184,0.368,0.632,0.0,42,".@JesseBWatters: ""A secure border protects families from being separated. It protects against cartels, trafficking,… https://t.co/0qH7pRQsnG"
+FoxNews,Wed Oct 17 21:43:06 +0000 2018,-0.4019,0.0,0.769,0.231,43,"Nine injured, including seven firefighters, in Baltimore gas explosion. https://t.co/8EB56GyHK8"
+FoxNews,Wed Oct 17 21:34:19 +0000 2018,-0.7003,0.0,0.633,0.367,44,Houston Astros accused of cheating after man spotted filming opposing dugout. https://t.co/cLLPkPg3ML
+FoxNews,Wed Oct 17 21:22:42 +0000 2018,0.0,0.0,1.0,0.0,45,"Midterm election voters can decide abortion, marijuana, immigration issues: 10 ballot measures to watch https://t.co/X14EGGmYAQ"
+FoxNews,Wed Oct 17 21:08:00 +0000 2018,0.0,0.0,1.0,0.0,46,.@SenFeinstein wants Kavanaugh sexual misconduct investigation reopened if Dems take the Senate. https://t.co/0NORLe951X
+FoxNews,Wed Oct 17 21:07:47 +0000 2018,0.5106,0.216,0.784,0.0,47,"California sea lions contract potentially deadly infection via urine, rescue center says https://t.co/H8TrdUn4Np"
+FoxNews,Wed Oct 17 21:01:44 +0000 2018,-0.5719,0.0,0.821,0.179,48,New look at the scope of Hurricane Michael’s destruction one week after the storm. @RickLeventhal reports. #Cavuto https://t.co/ds2UwP35kE
+FoxNews,Wed Oct 17 20:56:33 +0000 2018,0.0258,0.201,0.602,0.197,49,"Treasury employee charged with leaking financial info on Trump team was arrested with flash drive in hand, prosecut… https://t.co/dCRCwYB2tr"
+FoxNews,Wed Oct 17 20:55:13 +0000 2018,0.5423,0.241,0.651,0.107,50,"Kirk Lippold on Medal of Honor ceremonies: “While we may have disagreements on what we do politically, these ceremo… https://t.co/VQ5SC2H0So"
+FoxNews,Wed Oct 17 20:48:35 +0000 2018,0.0,0.0,1.0,0.0,51,TUNE IN: @LaraLeaTrump joins @ShannonBream tonight on @foxnewsnight at 11p ET on Fox News Channel. https://t.co/JKrBxFUFtN
+FoxNews,Wed Oct 17 20:46:17 +0000 2018,0.743,0.326,0.674,0.0,52,.@POTUS presents Marine Veteran Sgt Major John Canley with the Medal of Honor https://t.co/LWaInXhl7q https://t.co/RZsnIMI0FH
+FoxNews,Wed Oct 17 20:41:04 +0000 2018,0.0,0.0,1.0,0.0,53,.@POTUS: “John’s fellow Marines have described him as a Marine warrior…who is bigger than life and beyond the reach… https://t.co/Ov5jAZvgdV
+FoxNews,Wed Oct 17 20:36:20 +0000 2018,-0.7184,0.0,0.696,0.304,54,.@POTUS: “Despite sustaining serious injuries…[John] continued to face down the enemy with no thought for his own s… https://t.co/poqb7CAtiH
+FoxNews,Wed Oct 17 20:30:42 +0000 2018,0.0,0.0,1.0,0.0,55,.@POTUS: “One of [Sgt Major Canley]’s fellow warriors who joins us today…said ‘[we] followed him because he was a t… https://t.co/8HVSCAeAyd
+FoxNews,Wed Oct 17 20:28:10 +0000 2018,-0.25,0.0,0.905,0.095,56,".@POTUS: “John’s friend…was struck by a rocket explosion, and was about to be run over by a tank, when John charged… https://t.co/S2iCR44RFf"
+FoxNews,Wed Oct 17 20:18:47 +0000 2018,0.1531,0.134,0.714,0.151,57,".@POTUS: “Fifty years ago an American Marine fought with unmatched bravery in one of the longest, and bloodiest bat… https://t.co/utxOS1k9T7"
+FoxNews,Wed Oct 17 20:09:43 +0000 2018,0.743,0.259,0.741,0.0,58,President @realDonaldTrump presents the Medal of Honor to Sergeant Major John L. Canley for his actions in the Viet… https://t.co/JFOQRp5EpB
+FoxNews,Wed Oct 17 20:06:55 +0000 2018,0.743,0.558,0.442,0.0,59,AWAITING: Medal of Honor Ceremony https://t.co/LWaInXhl7q https://t.co/WWImjky0xK
+FoxNews,Wed Oct 17 20:02:12 +0000 2018,0.0,0.0,1.0,0.0,60,.@ShepNewsTeam is live with the ‘Fox News Update’ on Facebook Watch: https://t.co/Sb2cju6RMf https://t.co/9irRN1lS3n
+FoxNews,Wed Oct 17 20:00:37 +0000 2018,-0.6808,0.0,0.741,0.259,61,"Missing Wisconsin teen, 13, is in danger, not a runaway, cops say, as search intensifies after parents killed… https://t.co/fdmThPpeAQ"
+FoxNews,Wed Oct 17 19:56:26 +0000 2018,0.4215,0.135,0.865,0.0,62,".@tamarakeithNPR: ""It is a fact of life that midterms are about the president of the United States, especially the… https://t.co/ITkyI9aSOl"
+FoxNews,Wed Oct 17 19:51:30 +0000 2018,-0.5106,0.0,0.784,0.216,63,Ellison claimed ex-wife abused him during their marriage in unsealed divorce records https://t.co/Z2mVPTcDJK
+FoxNews,Wed Oct 17 19:46:56 +0000 2018,0.2716,0.207,0.793,0.0,64,".@POTUS: Saudi Arabia ""a very important ally"" https://t.co/lUicv3Bovm https://t.co/fLoWiEarBB"
+FoxNews,Wed Oct 17 19:34:06 +0000 2018,-0.6705,0.0,0.727,0.273,65,Turkish officials: Evidence that Saudis killed columnist who lived in U.S. https://t.co/uq08akBsny https://t.co/tjh5qCnUvq
+FoxNews,Wed Oct 17 19:29:03 +0000 2018,-0.6908,0.0,0.68,0.32,66,Turkish media report grisly details of Khashoggi's apparent murder https://t.co/chiTgqtQi7 https://t.co/dJke4bsz1V
+FoxNews,Wed Oct 17 19:26:01 +0000 2018,0.0,0.0,1.0,0.0,67,Martha Stewart starts streaming service https://t.co/uVU2i0gBcJ
+FoxNews,Wed Oct 17 19:16:51 +0000 2018,-0.2263,0.0,0.881,0.119,68,"Twitter's release of 10 million Russian, Iranian influence campaign tweets shows US vulnerability (via… https://t.co/b0IPFjwH92"
+FoxNews,Wed Oct 17 19:07:27 +0000 2018,-0.4404,0.0,0.847,0.153,69,"An American flag hangs in a bedroom of a damaged home from Hurricane Michael in Mexico Beach, Florida. https://t.co/XpKoqznGF8"
+FoxNews,Wed Oct 17 19:04:37 +0000 2018,0.0,0.0,1.0,0.0,70,Canada Now the Second Country in the World to Legalize Marijuana Nationally; @BryanLlenas reports https://t.co/Uh0xGEA9sq
+FoxNews,Wed Oct 17 18:56:36 +0000 2018,0.0,0.0,1.0,0.0,71,Alan Greenspan: “The economy is now sagging a bit.” https://t.co/jvraL7NqF2
+FoxNews,Wed Oct 17 18:54:55 +0000 2018,0.0,0.0,1.0,0.0,72,Alan Greenspan: “I think the Fed is doing just what it should be doing at this stage.” https://t.co/7F8C1xJYLS
+FoxNews,Wed Oct 17 18:43:26 +0000 2018,0.7906,0.4,0.6,0.0,73,RT @FoxBusiness: The robust economy is good news for those looking for a holiday job https://t.co/XsGs7ACCV9
+FoxNews,Wed Oct 17 18:43:19 +0000 2018,-0.2732,0.0,0.851,0.149,74,"RT @FoxBusiness: .@POTUS asks Cabinet members to slash budgets in 'nickel plan'
+https://t.co/xuR1T4LyMM"
+FoxNews,Wed Oct 17 18:30:15 +0000 2018,-0.3818,0.131,0.615,0.254,75,NASA astronaut describes dramatic escape from failed Soyuz rocket https://t.co/Ljv7OJDdK1
+FoxNews,Wed Oct 17 18:24:02 +0000 2018,0.34,0.231,0.769,0.0,76,Colorado Rolls out New Election Security; @aacuna1 reports https://t.co/66M3Zv6aKt
+FoxNews,Wed Oct 17 18:20:57 +0000 2018,0.0,0.0,1.0,0.0,77,".@BarackObama shoots down excuses, urges people to vote in midterm elections in new video https://t.co/wOsbNZgkcZ"
+FoxNews,Wed Oct 17 18:11:39 +0000 2018,0.4767,0.134,0.866,0.0,78,"During a visit to the Royal Flying Doctor Service in Dubbo, Australia, Prince Harry was given a hug and had his bea… https://t.co/kUFYynWnBx"
+FoxNews,Wed Oct 17 18:07:46 +0000 2018,-0.0951,0.133,0.707,0.16,79,"Pelosi boasts Dems could see 'tsunami' in midterms, despite party warnings https://t.co/3X8reVIFHK"
+FoxNews,Wed Oct 17 18:00:02 +0000 2018,-0.765,0.0,0.72,0.28,80,"ICE forced to release illegal immigrants ‘out of the front door’ in Arizona amid space crunch, migrant surge https://t.co/xS6lbxOCYB"
+FoxNews,Wed Oct 17 17:55:00 +0000 2018,-0.2732,0.0,0.877,0.123,81,.@RepSeanDuffy on @POTUS asking Cabinet secretaries to cut spending by 5 percent for fiscal year 2020… https://t.co/k7uwSXikrq
+FoxNews,Wed Oct 17 17:50:00 +0000 2018,0.0,0.123,0.753,0.123,82,"Treasury employee charged with leaking financial info on Trump campaign officials, Russians https://t.co/E1VFunHTIT"
+FoxNews,Wed Oct 17 17:45:00 +0000 2018,0.0,0.0,1.0,0.0,83,.@RepSeanDuffy: “There is so much room for us to reduce spending in the federal government.”… https://t.co/SeYiYId1vh
+FoxNews,Wed Oct 17 17:39:47 +0000 2018,0.0,0.0,1.0,0.0,84,"Prince Harry and Meghan Markle, Duchess of Sussex, visit a local farming family in Dubbo, Australia. https://t.co/10a0U63qiz"
+FoxNews,Wed Oct 17 17:35:00 +0000 2018,0.0,0.0,1.0,0.0,85,.@RepSeanDuffy: “An investigation is key.” https://t.co/lUicv3SZmU #OutnumberedOT https://t.co/fw2QpFHuqv
+FoxNews,Wed Oct 17 17:31:22 +0000 2018,0.0,0.0,1.0,0.0,86,"Prince Harry and Meghan Markle, Duchess of Sussex, are embraced upon their arrival in Dubbo, Australia. https://t.co/jdGOG9IfFv"
+FoxNews,Wed Oct 17 17:18:46 +0000 2018,0.0,0.0,1.0,0.0,87,.@POTUS: “Our military’s in the process of being fixed.” https://t.co/oX1btZv7qZ https://t.co/OX8hil5Rkt
+FoxNews,Wed Oct 17 17:17:34 +0000 2018,-0.2732,0.0,0.905,0.095,88,.@POTUS: “I’m going to ask each of you to come back with a 5 percent budget cut from your various departments…I’m s… https://t.co/lZ2eQNuhf5
+FoxNews,Wed Oct 17 17:15:00 +0000 2018,0.25,0.168,0.714,0.117,89,"Waffle House sends mobile truck to Panama City, gives free food to Hurricane Michael victims https://t.co/EFh31VX0J2"
+FoxNews,Wed Oct 17 17:05:28 +0000 2018,-0.6486,0.0,0.675,0.325,90,"Missing Michigan girl found in semi-truck in Kentucky, man arrested, cops say https://t.co/dWsWsvKLQx"
+FoxNews,Wed Oct 17 16:58:45 +0000 2018,0.296,0.155,0.845,0.0,91,"'Someone Has to Start Hitting Back': Conservative, Pro-Trump Comedians Launching 'Deplorables Tour' https://t.co/ma1idFLjko"
+FoxNews,Wed Oct 17 16:54:22 +0000 2018,-0.2732,0.0,0.877,0.123,92,Trump to ask Cabinet secretaries to cut spending by 5 percent for fiscal year 2020 https://t.co/tc83jdXVg7 https://t.co/oKMLZ12T0R
+FoxNews,Wed Oct 17 16:47:13 +0000 2018,0.0,0.0,1.0,0.0,93,"Trump: US seeking audio, video related to Khashoggi disappearance ‘if it exists’ https://t.co/U7zcFXQexf"
+FoxNews,Wed Oct 17 16:45:09 +0000 2018,0.0,0.0,1.0,0.0,94,Jon Bon Jovi to headline two Norwegian cruises https://t.co/7zge9CWFLJ
+FoxNews,Wed Oct 17 16:41:00 +0000 2018,0.34,0.118,0.882,0.0,95,"Separated by a security window, young visitors and a polar bear watch each other at the zoo in Gelsenkirchen, Germa… https://t.co/OmpX9iDX6S"
+FoxNews,Wed Oct 17 16:36:00 +0000 2018,0.0,0.0,1.0,0.0,96,Nearly 50-pound ‘aggressive’ snapping turtle found in Virginia yard https://t.co/bjTGH7n5Bu
+FoxNews,Wed Oct 17 16:28:53 +0000 2018,0.2057,0.102,0.898,0.0,97,".@KatiePavlich: ""Robert Mueller has to show that this wasn't a politically biased investigation, they did things fa… https://t.co/aGNelESkHG"
+FoxNews,Wed Oct 17 16:22:18 +0000 2018,0.2235,0.146,0.854,0.0,98,"Honduras migrant caravan on the move despite warnings from #Trump, governments https://t.co/jbAJKbZQcZ"
+FoxNews,Wed Oct 17 16:19:31 +0000 2018,-0.7096,0.0,0.734,0.266,99,".@MelissaAFrancis on Khashoggi: ""At this point, there is no way to ignore what happened. There is no way to stand b… https://t.co/bH8kuVSFq5"
+FoxNews,Wed Oct 17 16:12:46 +0000 2018,-0.7003,0.0,0.734,0.266,100,"Heartbreaking video shows some of the devastation Hurricane Michael brought to Mexico Beach, Florida. The storm has… https://t.co/SoneHgU9ky"
+nytimes,Thu Oct 18 00:25:01 +0000 2018,0.34,0.107,0.893,0.0,1,"Donald McGahn II, who on Wednesday left his role as White House counsel, had played a pivotal role in pushing throu… https://t.co/SdBnBzXwzD"
+nytimes,Thu Oct 18 00:16:24 +0000 2018,0.5859,0.194,0.806,0.0,2,“I’m sure it was like bar life in a thousand other towns going on simultaneously. There was that one club where you… https://t.co/nNSZbLZvPt
+nytimes,Thu Oct 18 00:12:11 +0000 2018,0.4404,0.112,0.888,0.0,3,The closing of the Stone Pony in 1998 had some wondering if it would be for good. But Domenic Santana saw an opport… https://t.co/A1bmYDRiTJ
+nytimes,Thu Oct 18 00:09:41 +0000 2018,0.0,0.0,1.0,0.0,4,"Steven Nasar, of nearby Deal, New Jersey, bought the Stone Pony in bankruptcy court and reopened it a year later.… https://t.co/p8yan67cGl"
+nytimes,Thu Oct 18 00:06:23 +0000 2018,-0.743,0.0,0.672,0.328,5,"Liability lawsuits forced Jack Roig and Butch Pielka to close the Stone Pony in September 1991. ""One lawsuit was be… https://t.co/aMPHq4irGK"
+nytimes,Wed Oct 17 23:59:04 +0000 2018,0.765,0.297,0.703,0.0,6,"""It was just a local, friendly, convenient place that had a good feeling to it, and I suppose at that time it kept… https://t.co/xT4YhXkKv6"
+nytimes,Wed Oct 17 23:53:20 +0000 2018,0.0,0.0,1.0,0.0,7,"""The local bands were the ones that kept the place going. We were able to open seven nights a week with music."" —Ja… https://t.co/Wmaf3HJwxw"
+nytimes,Wed Oct 17 23:50:58 +0000 2018,0.0,0.0,1.0,0.0,8,"After many Sunday nights, and then Tuesday nights, and then Thursday nights, Stevie Van Zandt and Southside Johnny… https://t.co/jAG6xNLIzH"
+nytimes,Wed Oct 17 23:45:43 +0000 2018,0.0,0.0,1.0,0.0,9,"""I strolled up to this closed spot, the Magic Touch. It was the future Pony,"" Jack Roig said. ""I looked in the door… https://t.co/BMhE00qdqq"
+nytimes,Wed Oct 17 23:39:40 +0000 2018,0.0,0.0,1.0,0.0,10,RT @nytmike: NEW: McGahn officially out as White House counsel. Had goodbye meeting with Trump today. W/@maggienyt https://t.co/jty0Ydc601
+nytimes,Wed Oct 17 23:37:20 +0000 2018,-0.5106,0.0,0.845,0.155,11,Asbury Park was only a few years removed from the race riots of 1970 when the Stone Pony opened… https://t.co/DDikXrRCC2
+nytimes,Wed Oct 17 23:32:47 +0000 2018,-0.4588,0.0,0.875,0.125,12,"Since it opened in 1974, the Stone Pony has been the beating heart of Asbury Park, a beacon for musicians and fans… https://t.co/GT4C1ZbZYq"
+nytimes,Wed Oct 17 23:30:12 +0000 2018,0.4019,0.119,0.881,0.0,13,How a legendary club rode the ups and downs of the Jersey Shore's most rockin' town. With a bit of help from… https://t.co/lGeNcowE2z
+nytimes,Wed Oct 17 23:25:03 +0000 2018,-0.3818,0.085,0.708,0.208,14,Treasury secretary Steven Mnuchin warned China against weakening its currency and suggested that any trade deal bet… https://t.co/cUN77aEiSu
+nytimes,Wed Oct 17 23:10:02 +0000 2018,0.0,0.0,1.0,0.0,15,The wreckage at Florida's Tyndall Air Force Base shows how climate change may be putting billions of dollars worth… https://t.co/KI6ER678dU
+nytimes,Wed Oct 17 22:55:02 +0000 2018,-0.4588,0.0,0.85,0.15,16,"A former minister can barely force himself out of bed. A young professional chokes with emotion, trying to explain… https://t.co/16T4gC3LyS"
+nytimes,Wed Oct 17 22:41:07 +0000 2018,0.0,0.0,1.0,0.0,17,"In Opinion
+
+Op-Ed contributor Alondra Nelson writes, ""To be Native American is to be a member of a tribal community… https://t.co/fugy2prpOZ"
+nytimes,Wed Oct 17 22:31:15 +0000 2018,0.0,0.0,1.0,0.0,18,Evening Briefing: Here's what you need to know at the end of the day https://t.co/5AOwQFF0vP
+nytimes,Wed Oct 17 22:25:06 +0000 2018,0.0,0.0,1.0,0.0,19,The key to roasting all kinds of vegetables is to know the right temperature for cooking them… https://t.co/Qe6FzrKok4
+nytimes,Wed Oct 17 22:10:05 +0000 2018,0.6808,0.292,0.708,0.0,20,Netflix surprised Wall Street with huge gains in subscribers in the third quarter. Here's what those results mean. https://t.co/fYPv9dDAgD
+nytimes,Thu Oct 18 00:25:01 +0000 2018,0.34,0.107,0.893,0.0,21,"Donald McGahn II, who on Wednesday left his role as White House counsel, had played a pivotal role in pushing throu… https://t.co/SdBnBzXwzD"
+nytimes,Thu Oct 18 00:16:24 +0000 2018,0.5859,0.194,0.806,0.0,22,“I’m sure it was like bar life in a thousand other towns going on simultaneously. There was that one club where you… https://t.co/nNSZbLZvPt
+nytimes,Thu Oct 18 00:12:11 +0000 2018,0.4404,0.112,0.888,0.0,23,The closing of the Stone Pony in 1998 had some wondering if it would be for good. But Domenic Santana saw an opport… https://t.co/A1bmYDRiTJ
+nytimes,Thu Oct 18 00:09:41 +0000 2018,0.0,0.0,1.0,0.0,24,"Steven Nasar, of nearby Deal, New Jersey, bought the Stone Pony in bankruptcy court and reopened it a year later.… https://t.co/p8yan67cGl"
+nytimes,Thu Oct 18 00:06:23 +0000 2018,-0.743,0.0,0.672,0.328,25,"Liability lawsuits forced Jack Roig and Butch Pielka to close the Stone Pony in September 1991. ""One lawsuit was be… https://t.co/aMPHq4irGK"
+nytimes,Wed Oct 17 23:59:04 +0000 2018,0.765,0.297,0.703,0.0,26,"""It was just a local, friendly, convenient place that had a good feeling to it, and I suppose at that time it kept… https://t.co/xT4YhXkKv6"
+nytimes,Wed Oct 17 23:53:20 +0000 2018,0.0,0.0,1.0,0.0,27,"""The local bands were the ones that kept the place going. We were able to open seven nights a week with music."" —Ja… https://t.co/Wmaf3HJwxw"
+nytimes,Wed Oct 17 23:50:58 +0000 2018,0.0,0.0,1.0,0.0,28,"After many Sunday nights, and then Tuesday nights, and then Thursday nights, Stevie Van Zandt and Southside Johnny… https://t.co/jAG6xNLIzH"
+nytimes,Wed Oct 17 23:45:43 +0000 2018,0.0,0.0,1.0,0.0,29,"""I strolled up to this closed spot, the Magic Touch. It was the future Pony,"" Jack Roig said. ""I looked in the door… https://t.co/BMhE00qdqq"
+nytimes,Wed Oct 17 23:39:40 +0000 2018,0.0,0.0,1.0,0.0,30,RT @nytmike: NEW: McGahn officially out as White House counsel. Had goodbye meeting with Trump today. W/@maggienyt https://t.co/jty0Ydc601
+nytimes,Wed Oct 17 23:37:20 +0000 2018,-0.5106,0.0,0.845,0.155,31,Asbury Park was only a few years removed from the race riots of 1970 when the Stone Pony opened… https://t.co/DDikXrRCC2
+nytimes,Wed Oct 17 23:32:47 +0000 2018,-0.4588,0.0,0.875,0.125,32,"Since it opened in 1974, the Stone Pony has been the beating heart of Asbury Park, a beacon for musicians and fans… https://t.co/GT4C1ZbZYq"
+nytimes,Wed Oct 17 23:30:12 +0000 2018,0.4019,0.119,0.881,0.0,33,How a legendary club rode the ups and downs of the Jersey Shore's most rockin' town. With a bit of help from… https://t.co/lGeNcowE2z
+nytimes,Wed Oct 17 23:25:03 +0000 2018,-0.3818,0.085,0.708,0.208,34,Treasury secretary Steven Mnuchin warned China against weakening its currency and suggested that any trade deal bet… https://t.co/cUN77aEiSu
+nytimes,Wed Oct 17 23:10:02 +0000 2018,0.0,0.0,1.0,0.0,35,The wreckage at Florida's Tyndall Air Force Base shows how climate change may be putting billions of dollars worth… https://t.co/KI6ER678dU
+nytimes,Wed Oct 17 22:55:02 +0000 2018,-0.4588,0.0,0.85,0.15,36,"A former minister can barely force himself out of bed. A young professional chokes with emotion, trying to explain… https://t.co/16T4gC3LyS"
+nytimes,Wed Oct 17 22:41:07 +0000 2018,0.0,0.0,1.0,0.0,37,"In Opinion
+
+Op-Ed contributor Alondra Nelson writes, ""To be Native American is to be a member of a tribal community… https://t.co/fugy2prpOZ"
+nytimes,Wed Oct 17 22:31:15 +0000 2018,0.0,0.0,1.0,0.0,38,Evening Briefing: Here's what you need to know at the end of the day https://t.co/5AOwQFF0vP
+nytimes,Wed Oct 17 22:25:06 +0000 2018,0.0,0.0,1.0,0.0,39,The key to roasting all kinds of vegetables is to know the right temperature for cooking them… https://t.co/Qe6FzrKok4
+nytimes,Wed Oct 17 22:10:05 +0000 2018,0.6808,0.292,0.708,0.0,40,Netflix surprised Wall Street with huge gains in subscribers in the third quarter. Here's what those results mean. https://t.co/fYPv9dDAgD
+nytimes,Wed Oct 17 21:55:05 +0000 2018,-0.765,0.048,0.699,0.254,41,"“I could’ve killed you,"" a police officer told 2 boys with a BB gun in Columbus, Ohio. “I want you to think about t… https://t.co/4CmF0QEOqB"
+nytimes,Wed Oct 17 21:40:06 +0000 2018,0.0,0.0,1.0,0.0,42,"""Nathan for You"" is done, the Beastie Boys wrote a book and ""The Real World"" is coming back (on Facebook Watch): He… https://t.co/1UZzEiMIZj"
+nytimes,Wed Oct 17 21:26:57 +0000 2018,-0.6124,0.0,0.818,0.182,43,"More than 200,000 voters live in counties devastated by Hurricane Michael. Now, with Election Day just weeks away,… https://t.co/k6DdZSd1Cu"
+nytimes,Wed Oct 17 21:10:02 +0000 2018,0.4086,0.206,0.687,0.107,44,Has anyone ever worked so hard to make us laugh as Melissa McCarthy? https://t.co/XVKpPUjvvy
+nytimes,Wed Oct 17 20:55:04 +0000 2018,0.2732,0.188,0.711,0.1,45,"RT @andrewrchow: The NYT accidentally let me, @amandahess and @joncaramanica write 3000 words about Terrace House. please nobody alert them…"
+nytimes,Wed Oct 17 20:41:03 +0000 2018,-0.926,0.0,0.557,0.443,46,The parents who lost 4 daughters and 3 sons-in-law in the horrific limo crash are besieged by the worst kind of to-… https://t.co/qWs2emvw60
+nytimes,Wed Oct 17 20:25:08 +0000 2018,-0.7184,0.0,0.778,0.222,47,"RT @Max_Fisher: They asked me to write on why Khashoggi's death provoked a backlash to Saudi Arabia, when so many past transgressions did n…"
+nytimes,Wed Oct 17 20:10:08 +0000 2018,-0.4767,0.091,0.66,0.249,48,The federal authorities arrested a U.S. Treasury Department official and charged her with illegally showing a journ… https://t.co/vdrpBgKNMV
+nytimes,Wed Oct 17 19:55:05 +0000 2018,-0.4588,0.0,0.87,0.13,49,"When ""Halloween"" was released in October 1978, The Times didn’t review it. But it wasn’t out of snobbery. Here's ou… https://t.co/UbPxdfwL6p"
+nytimes,Wed Oct 17 19:40:06 +0000 2018,-0.5574,0.048,0.789,0.162,50,"""Our definitions matter to us.” The anger so many Native Americans feel about Elizabeth Warren's DNA test is about… https://t.co/fD4YjXGqZA"
+nytimes,Wed Oct 17 19:26:25 +0000 2018,0.0,0.0,1.0,0.0,51,"Today, Canada legalized recreational cannabis use. Catherine Porter is live at a pot lounge with a look at the fest… https://t.co/S6LTd7TACY"
+nytimes,Wed Oct 17 19:25:01 +0000 2018,0.0,0.0,1.0,0.0,52,"RT @EnnisNYT: In past year @craignewmark has given $50 million to philanthropic efforts involving media, mostly in NYC. He talks to @DavidS…"
+nytimes,Wed Oct 17 19:10:07 +0000 2018,-0.0258,0.057,0.881,0.062,53,An Oregon county closed all its libraries when residents didn’t want to raise taxes to pay for them. Now there’s a… https://t.co/MTeLFfIhan
+nytimes,Wed Oct 17 18:55:04 +0000 2018,0.0,0.0,1.0,0.0,54,"In Tucson, Arizona, Lea Marquez Peterson — a conservative, Hispanic female candidate — was heralded as a new face f… https://t.co/C6n4jj234q"
+nytimes,Wed Oct 17 18:40:09 +0000 2018,-0.128,0.0,0.93,0.07,55,"Mike Pompeo has spent years crafting an image as a tough straight-talker. But his trip to Saudi Arabia, where he sa… https://t.co/U96VDHUASc"
+nytimes,Wed Oct 17 18:27:21 +0000 2018,-0.34,0.0,0.882,0.118,56,The New York Times has confirmed independently that at least 4 suspects identified by Turkey in the disappearance o… https://t.co/4UA8PNNCBd
+nytimes,Wed Oct 17 18:24:05 +0000 2018,0.0,0.0,1.0,0.0,57,"15 days after Jamal Khashoggi entered the Saudi consulate in Istanbul and was never seen coming out, the Saudis hav… https://t.co/lTfwSe6bXi"
+nytimes,Wed Oct 17 18:10:07 +0000 2018,-0.4019,0.0,0.881,0.119,58,"""It is 2018 and my father is still talking,"" said Lenny Bruce's daughter, Kitty Bruce. ""The fights are different, b… https://t.co/60M1tccixp"
+nytimes,Wed Oct 17 17:55:05 +0000 2018,-0.7906,0.0,0.667,0.333,59,"India's Minister of External Affairs, M. J. Akbar, says he is resigning to fight sexual harassment allegations made… https://t.co/BkvIi4MGpf"
+nytimes,Wed Oct 17 17:40:05 +0000 2018,0.296,0.104,0.896,0.0,60,"In tight House races, Democrats raised 3 times as much from small donors as Republicans did, helping fuel their mid… https://t.co/iuxwh3aGVq"
+nytimes,Wed Oct 17 17:25:07 +0000 2018,-0.4404,0.0,0.861,0.139,61,"As Brazilians prepare for the second round of the most polarized election in their recent history, animosity betwee… https://t.co/FszuhGcipD"
+nytimes,Wed Oct 17 17:10:04 +0000 2018,0.4404,0.146,0.854,0.0,62,"Canadians wondering what to expect from marijuana legalization can take a peek at California, where an energetic le… https://t.co/TOGYvUKKa8"
+nytimes,Wed Oct 17 17:06:52 +0000 2018,0.0,0.0,1.0,0.0,63,"Now, only dried cannabis, oils and seeds are on sale in Canada. But the industry is dreaming up a future that will… https://t.co/AE2uxPnzP4"
+nytimes,Wed Oct 17 17:02:31 +0000 2018,0.296,0.104,0.896,0.0,64,It's not just consumers who will be impacted by marijuana legalization in Canada. Companies are clamoring to join w… https://t.co/PNSXwz2arO
+nytimes,Wed Oct 17 16:59:17 +0000 2018,0.2593,0.089,0.911,0.0,65,So what does legalization mean? Where will marijuana be sold? What’s the legal age for use? And what will happen at… https://t.co/O5GnUqm0uw
+nytimes,Wed Oct 17 16:45:03 +0000 2018,0.0,0.0,1.0,0.0,66,Men and women aren’t wildly different in their fantasy lives but people who identify as either Republican or Democr… https://t.co/eVGErozgwI
+nytimes,Wed Oct 17 16:30:13 +0000 2018,0.296,0.099,0.901,0.0,67,"RT @AndrewDasNYT: ‘It’s just such a minuscule percentage. The shares mean nothing to Kroenke, and yet they mean everything to us.’ https://…"
+nytimes,Wed Oct 17 16:15:07 +0000 2018,0.5423,0.209,0.791,0.0,68,Istanbul is installing “reverse vending machines” at metro stations that allow passengers to add credit to their su… https://t.co/8OVgslRRrt
+nytimes,Wed Oct 17 16:09:04 +0000 2018,0.5719,0.19,0.81,0.0,69,"He played the biggest heart on “Sesame Street” for nearly 50 years. Now the original Big Bird, Caroll Spinney, is r… https://t.co/MxaREfEsuj"
+nytimes,Wed Oct 17 16:00:10 +0000 2018,0.6901,0.231,0.769,0.0,70,"""It was unsettling and raw and fitfully funny. But it also felt more like 'Roseanne' than last spring’s revival did… https://t.co/Zlp9Gz1Fko"
+nytimes,Wed Oct 17 15:52:04 +0000 2018,-0.3818,0.119,0.667,0.215,71,"RT @nytimesbusiness: Craig Newmark built Craiglist, which is often accused of destroying newspapers. Now he is trying to save journalism. h…"
+nytimes,Wed Oct 17 15:50:08 +0000 2018,0.2732,0.11,0.89,0.0,72,The federal student loan forgiveness program for public servants is such a quagmire that Congress set up a separate… https://t.co/hRjPjKQKos
+nytimes,Wed Oct 17 15:36:52 +0000 2018,-0.5574,0.0,0.806,0.194,73,"Breaking News: Audio confirms Jamal Khashoggi was tortured and dismembered, a Turkish official said, revealing grue… https://t.co/QE5XeUtIKx"
+nytimes,Wed Oct 17 15:30:09 +0000 2018,0.5106,0.163,0.837,0.0,74,"In Opinion
+
+Ted Widmer, a distinguished lecturer at the Macaulay Honors College at CUNY, writes, ""In 1968, 2 black… https://t.co/TCzsqfaay5"
+nytimes,Wed Oct 17 15:22:03 +0000 2018,0.802,0.301,0.699,0.0,75,"RT @tmagazine: Perhaps our best contemporary photographer, Carrie Mae Weems creates work that insists on the worth of black women — both in…"
+nytimes,Wed Oct 17 15:15:07 +0000 2018,-0.5423,0.0,0.609,0.391,76,"Astrology is hard, even if it's fake https://t.co/Pdb9R8UfpA https://t.co/XTfZsKWAT5"
+nytimes,Wed Oct 17 15:08:06 +0000 2018,0.0,0.0,1.0,0.0,77,"RT @nytimesbusiness: What is an NPC? NPC means “nonplayable character” or “nonplayer character.” It’s a term, borrowed from the world of vi…"
+nytimes,Wed Oct 17 15:00:15 +0000 2018,-0.765,0.0,0.708,0.292,78,"White House officials are worried that the apparent killing of Jamal Khashoggi, and Saudi Arabia's changing account… https://t.co/CrLq67Y25o"
+nytimes,Wed Oct 17 14:51:05 +0000 2018,0.0772,0.088,0.837,0.076,79,"RT @NYTSports: They have owned shares in Arsenal for years, sometimes for decades. But now the club is demanding they surrender them. @Rory…"
+nytimes,Wed Oct 17 14:41:24 +0000 2018,0.0,0.0,1.0,0.0,80,Breaking News: Canada today became the first major world economy to legalize marijuana. It also plans to make it ea… https://t.co/a6LK8hxEmq
+nytimes,Wed Oct 17 14:30:15 +0000 2018,0.6903,0.198,0.802,0.0,81,"""Some things are really obvious, but most issues are pretty complicated, and to be self righteous and believe that… https://t.co/HLaofm2qm4"
+nytimes,Wed Oct 17 14:16:01 +0000 2018,0.3818,0.268,0.61,0.122,82,Jair Bolsonaro's campaign promises could have dire consequences for the Amazon. The stakes for the planet are huge. https://t.co/digNcsutcW
+nytimes,Wed Oct 17 14:00:09 +0000 2018,0.0,0.0,1.0,0.0,83,A pro-government newspaper in Turkey reported that it had had access to an audio recording of the minutes during wh… https://t.co/qhYwvcvfta
+nytimes,Wed Oct 17 13:46:04 +0000 2018,-0.296,0.0,0.872,0.128,84,RT @nytimesbusiness: Small stocks were once insulated from the things that worried investors. Not anymore. https://t.co/0NnhNrHOv4
+nytimes,Wed Oct 17 13:45:37 +0000 2018,0.4019,0.119,0.881,0.0,85,"RT @porterthereport: There are lots of weed parties in Canada today, as the country legalized recreational cannabis across the country. I'l…"
+nytimes,Wed Oct 17 13:42:02 +0000 2018,0.0,0.0,1.0,0.0,86,President Trump plans to withdraw from a 144-year-old postal treaty that has allowed Chinese companies to ship smal… https://t.co/U7YAjxMctl
+nytimes,Wed Oct 17 13:39:22 +0000 2018,0.0,0.0,1.0,0.0,87,RT @NYTnickc: How an iconic rock club rode the ups and downs of one of New Jersey's most storied shore towns: An Oral History of The Stone…
+nytimes,Wed Oct 17 13:31:02 +0000 2018,0.5859,0.174,0.826,0.0,88,"The incidence of acne is adult women is rising to ""epidemic proportions,"" doctors say. Beauty companies are rushing… https://t.co/gaQuIOGEfu"
+nytimes,Wed Oct 17 13:14:04 +0000 2018,-0.25,0.0,0.818,0.182,89,"Climate change might lead to a beer shortage, scientists say https://t.co/35RHXl9Yw6"
+nytimes,Wed Oct 17 13:00:33 +0000 2018,-0.34,0.09,0.75,0.16,90,"RT @nytimesarts: After a half-century of playing Big Bird and Oscar the Grouch, Caroll Spinney is retiring https://t.co/18XDzDZxst"
+nytimes,Wed Oct 17 13:00:11 +0000 2018,0.0,0.0,1.0,0.0,91,Morning Briefing: Here's what you need to know to start your day https://t.co/BAu5E5Nk1O
+nytimes,Wed Oct 17 12:50:04 +0000 2018,-0.296,0.0,0.909,0.091,92,"There are several ways to ask the question, ""Are tax cuts paying for themselves?"" Based on the data we have right n… https://t.co/wyn8vSLGww"
+nytimes,Wed Oct 17 12:42:05 +0000 2018,0.0,0.0,1.0,0.0,93,An explosive device packed with metal fragments detonated at a technical college in the small town of Kerch on the… https://t.co/eM9F601tWj
+nytimes,Wed Oct 17 12:31:03 +0000 2018,-0.4767,0.0,0.807,0.193,94,"Over the weekend, Twitter suspended about 1,500 accounts associated with a right-wing trolling campaign.… https://t.co/6TUKVaaum5"
+nytimes,Wed Oct 17 12:14:04 +0000 2018,0.4767,0.14,0.86,0.0,95,"The leader of the far-right Proud Boys, whose followers brawled in Manhattan, is a Vice co-founder who revels in ma… https://t.co/aAVaXpbf3j"
+nytimes,Wed Oct 17 11:51:08 +0000 2018,0.0,0.0,1.0,0.0,96,Turkey named Maher Mutreb as part of a team of Saudi agents who assassinated Jamal Khashoggi. Photos show that Mr.… https://t.co/7GpeSFLbxi
+nytimes,Wed Oct 17 11:40:05 +0000 2018,-0.2732,0.0,0.909,0.091,97,"People in Toronto gathered to watch the ""bud drop"" at the stroke of midnight, as Canada became the first major worl… https://t.co/U6zabIBNH1"
+nytimes,Wed Oct 17 11:31:02 +0000 2018,-0.4215,0.0,0.882,0.118,98,"In Opinion
+
+The Editorial Board writes: ""If Saudi Arabia is allowed to get away with some lame story about the appa… https://t.co/RDYF2h5m90"
+nytimes,Wed Oct 17 11:16:03 +0000 2018,0.1027,0.113,0.792,0.096,99,"When Democrats lost almost every race in Missouri in 2016, their party decided it needed to do something drastic. B… https://t.co/jqdy3mEmD1"
+nytimes,Wed Oct 17 11:00:12 +0000 2018,-0.2755,0.0,0.895,0.105,100,"""One thing he specifically mentioned was he didn't usually like portraits of himself,"" said the artist about Presid… https://t.co/c8nAbgFBXN"
